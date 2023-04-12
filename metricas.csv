@@ -1,0 +1,283 @@
+name_owner,pr_id,title,state,review_time,num_caracteres,num_arquivos,num_additions,num_deletions,num_participants,num_comments
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODMzMDUz,Resolve #3: Fix broken links in exercises,MERGED,0h01m,0,8,403,403,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODM4ODQw,Fix #1: Update reverse proxy image,MERGED,0h00m,0,1,2,2,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODgxMjIy,Add more disadvantages of REST,MERGED,14h17m,0,1,2,0,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODg2MzUw,Fix typo in Study Guide section,MERGED,13h45m,85,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5OTIzMDg2,Fix typo - lobsided -> lopsided,MERGED,10h16m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDU5NTM1,Add Dyn DDoS attack link,MERGED,21h36m,11,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDc3NzI0,Fix multiple typos,MERGED,18h12m,0,1,8,8,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMjY1MjYz,Fix typo in RPC section,MERGED,0h12m,74,1,1,1,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMjcxMjAx,Add trivago Techblog,CLOSED,26h42m,0,1,1,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMzE1NTk3,Update Motivation section,MERGED,0h03m,0,1,3,3,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMzc3MjMz,Update Study guide section,MERGED,0h00m,0,1,8,8,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMzc3NjQ4,Update OO exercises index,MERGED,0h00m,0,1,2,2,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwODE4MjEw,Add high scalability to credits,MERGED,0h00m,0,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMTgxNzI2,Fix #6: Migrate links from exercises/solutions to use internal links,MERGED,68h33m,231,8,35,35,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMzk2MjQy,"Delete duplicate word ""does"" in design exercises",MERGED,11h19m,0,3,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDE2NTE1,Fix typo JSS -> JS,MERGED,26h38m,42,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDcyNTU4,Declare variable key in the get_user example,MERGED,36h45m,265,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMDU3MDkx,Fix typo,MERGED,10h08m,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMTU1MDQw,Add call for translations link,MERGED,0h00m,0,1,4,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMzUyMzc0,Fix typos,MERGED,4h11m,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNDM3NTE5,change the service discovery documenation example to use consul/etcd,CLOSED,53h29m,90,1,4,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjA2Mjc5,Explain difference between PUT & PATCH,MERGED,83h29m,268,1,2,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjM0ODE3,"Update service discovery section to include consul, etcd, and additional details",MERGED,42h47m,0,1,1,1,5,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNzIyMTA4,Add translations to contributing guidelines,MERGED,0h00m,0,1,29,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEzNzI0NDg0,系统设计入门 第二部分 翻译完成,CLOSED,0h02m,0,1,1773,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEzODE1NzY4,"Polish up HTTP, RPC, and intro sections",MERGED,0h00m,171,1,11,10,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEzODE2NTIy,Resolve #15: Add OmniGraffle template and diagrams,MERGED,0h01m,543,18,0,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEzOTAxMTg4,Add reference to interactive coding challenges repo,MERGED,0h03m,0,1,13,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0MDk0MzQ5,Change AP wording for clarity,MERGED,1h29m,296,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0NTMxMjYw,Fix grammar README.md,CLOSED,0h23m,26,1,1,1,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0OTE5NzMw,Change Pull CDN wording for clarity,MERGED,0h36m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0OTkzODMy,Update system design flashcards,MERGED,0h00m,0,1,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE1MDc1Nzk5,Update Translations section,MERGED,0h00m,0,1,8,4,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE1NjEwMTcy,"Fix ""Coding deck"" link typo",MERGED,30h15m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE1ODc4MjU5,Simplified Chinese translation v1.0,CLOSED,28h49m,243,1,1797,0,7,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDA3MDA0,Update translations section in contributing guidelines,MERGED,0h00m,104,1,5,4,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDE3NzQz,zh-cn: Add Simplified Chinese translation v1.0,MERGED,5h48m,129,1,1797,0,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDQ3MDA2,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,MERGED,18h32m,97,1,0,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDczMDM2,Update translation links,MERGED,0h02m,137,1,3,8,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3MDg2NjQy,Fix asynchronism link in mint README,MERGED,580h03m,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3MDg3MzY5,zh-Hans: Change misleading translation,CLOSED,8448h13m,65,1,2,2,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3NzA3ODE1,Merge pull request #1 from donnemartin/master,CLOSED,0h03m,24,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3NzA5MjM4,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,24,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3NzA5NzUx,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,24,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE4NjI4MjYz,Fix lowercase typo in Layer 7 load balancing title,MERGED,320h48m,74,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE5NjYwMzA0,Fix typo,MERGED,419h01m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIwMjQ4MTU5,Add license disclaimer,MERGED,0h01m,84,2,10,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIxMjI5NTAy,Add license disclaimer,CLOSED,207h52m,162,2,10,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIxOTg3ODgx,re-base,CLOSED,0h00m,0,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyMzU2OTcy,Fix #79: Inaccuracy in Twitter timeline and search example,MERGED,46h44m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyODk0MTI0,Add prev to Node class,MERGED,179h03m,97,1,2,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyOTIzNjEy,Init spot_size member in parking lot exercise,MERGED,8h07m,36,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI0MjE3NjEz,Fix reducer argument in pastebin exercise,MERGED,177h23m,344,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI4NDkyNzM0,Add polish translation link,MERGED,0h06m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5NTQ1OTE1,Add Russian translation link,MERGED,352h24m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5NjE1Nzcy,Add Grab Engineering Blog link,CLOSED,186h47m,244,2,2,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5ODE2NTgx,Add automated testing,CLOSED,11393h57m,375,1,11,0,4,12
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwNTc2NjM2,Merge pull request #1 from donnemartin/master,CLOSED,86h00m,12,0,0,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwODYzODg1,Fix typo in denormalization section,MERGED,12h04m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwOTkwMTA2,Mention policy for adding new blogs to Company engineering blogs section,MERGED,0h03m,26,1,2,0,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMzMDgwMjQy,Merge pull request #1 from donnemartin/master,CLOSED,0h01m,27,0,0,0,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTM1NzQ3Mjcw,Convert all .py files to be valid Python,MERGED,4889h18m,253,7,78,39,2,8
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTM3MTAyMTYz,Treat solution subdirectories as containing Python packages,MERGED,168h34m,0,1,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQxMjA4ODAy,Add Japanese translation link,MERGED,0h00m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQxOTc5ODEw,Add traditional Chinese translation link,MERGED,0h00m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQyNzE1MDgz,Add Italian translation link,MERGED,21h44m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQzODEzODU2,Add API rate limiter design link,MERGED,234h42m,0,1,1,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ0MTAyODE0,Fix typo: considering -> consider in scaling AWS solution,MERGED,133h23m,98,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ1Mjk3MzYz,Add Korean translation link,MERGED,152h23m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ3OTYwMDQ5,Simplify logic for is_ace and is_face_card in deck of cards solution,MERGED,77h09m,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ5MDk5NzI5,Add Japanese Translation,MERGED,860h35m,47,1,1787,0,5,9
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ5OTMzODI2,Add Persian translation link,MERGED,48h15m,0,1,2,2,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTUzNTI3MTAy,Correct Redis list structure in Twitter solution,MERGED,240h00m,281,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTU1OTkxMjQ5,Add Japanese Translation (#114),MERGED,0h00m,0,1,1787,0,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTU2MDE1Nzc5,Update Japanese translation link,MERGED,21h36m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTU2NzUyNDYx,ja: Fix typo ,MERGED,34h15m,857,1,1,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYwNjAzNTQz,Minor wording/formatting changes,MERGED,145h40m,0,1,8,10,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYwNzE1MTQ1,add Netflix in Company Architecture,CLOSED,460h50m,0,1,4,3,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5Mjgx,Add Netflix in Company Architectures,MERGED,363h55m,0,1,1,0,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDIw,Add Scaling Uber in Company Architecture,MERGED,658h04m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDk4,"Add article link: How Twitter Handles 3,000 Images/sec",MERGED,11003h39m,0,1,1,1,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NTk2,Add Facebook Live Streams,MERGED,972h27m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY0NDc4NzU3,Add Vietnamese translation link,MERGED,25h19m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY1NDU3ODY5,Update master-slave section anchor,MERGED,292h05m,90,4,4,4,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY4NDg3MDcx,Fix a formatting inconsistency in the first line,CLOSED,98h34m,0,1,1,1,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY5MDIxMzc2,Add Traditional Chinese translation,MERGED,333h50m,294,2,1787,1,4,23
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcwMDcyMzUz,Update contributing guidelines - PR squash,MERGED,76h14m,0,1,1,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcxMjI4NzIy,Update re:Invent url to 2017 version,MERGED,37h36m,165,3,18,18,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyNTQzNDk2,zh-TW: Add proper line break to links,MERGED,50h55m,126,1,16,16,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyNzM1MDU0,Add Greek translation link,MERGED,30h22m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyODA1Nzgy,zh-Hans: Fix typos,MERGED,64h44m,0,1,7,7,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzIzNzU5,Add Spanish translation link,MERGED,24h52m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzU0ODQ0,Add missing colons to class methods,MERGED,272h05m,79,2,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzU2Nzcx,deck_of_cards: Do not forget 'self',CLOSED,0h02m,0,1,3,3,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzU3MDQ2,Add missing self variables to Deck of Cards solution,MERGED,271h49m,25,1,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTQ4NzUw,Change LARGE to VehicleSize.LARGE in parking lot solution,MERGED,717h48m,70,1,2,2,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTU4MTE4,Add deque import to Social Graph solution,MERGED,352h23m,91,1,2,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0OTM1NjA1,Fix coding errors,MERGED,1021h07m,415,3,5,5,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4Mzg4NjMy,Merge pull request #2 from donnemartin/master,CLOSED,0h00m,20,0,0,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4OTUyODA5,Fix dict KeyError,MERGED,554h29m,60,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4OTUzMDQ2,Fix dict KeyError,MERGED,554h28m,46,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4OTg3NDkw,"Fixed grammar in ""Learn how to design large-scale systems""",CLOSED,19762h46m,0,1,2,2,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc5MDE5ODY5,zh-TW: Fix comment format,MERGED,184h31m,86,1,1,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTgxNzkyMDgz,Add missing enum imports,MERGED,496h32m,730,2,6,2,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTg0MjQwNDE5,Adding missing self variable,MERGED,258h41m,170,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTg0MjQ0MTcz,Change variable seller to category in Mint solution,MERGED,644h10m,253,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTkwODQyNDY4,zh-Hans: Fix typo,MERGED,455h26m,29,1,1,1,4,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTkxMzk2Njk0,Temporarily supress flake8 testing of social_graph_snippets.py,CLOSED,1100h02m,106,1,3,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTk2NzY2NzAw,Replace broken SQL tuning links,MERGED,156h07m,74,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAwMDYwNzM1,New Update from master,CLOSED,0h03m,0,1,1,0,0,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAwMTMxNDM4,zh-Hans: Fix PostgreSQL typo,MERGED,92h21m,34,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxMjcwNDEz,Fix #148: Add State(Enum) to social_graph_snippets.py,MERGED,36h03m,74,1,6,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxNDM0NTU4,Remove Imgur dependency by storing images locally,MERGED,17637h19m,0,40,152,152,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxNDQ0MzYw,ja: Swap VARCHAR and CHAR translation error,MERGED,14h31m,275,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxNDgyNDQ4,Add newlines - PEP8 style,MERGED,96h13m,849,3,3,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxNTAzNjIx,add Contactually tech blog,CLOSED,86h21m,53,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxNTY0ODc2,zh-TW: Improve translations,MERGED,92h38m,0,1,4,4,5,5
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAxODIxNjg3,Add Arabic translation link,MERGED,24h28m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAyNDc0NDY3,Fix broken links,MERGED,137h58m,0,4,15,15,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAzMDA2MjIw,Fix typo in LRU cache solution,MERGED,42h39m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAzMDE3NzQx,Add Arabic translation link,CLOSED,0h00m,0,1,1,1,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjAzMDQyNDI5,sertyuiop,CLOSED,23h39m,0,5,8,6,3,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA0MDEyMjI4,Translation for 7 Layers OSI Model,CLOSED,23h34m,28,1,2,2,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA0NjIwODQ3,Add German translation link,MERGED,23h34m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA1MzAxOTU3,Add Thai translation link,MERGED,18h25m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA1NjMwNTUw,Update CONTRIBUTING.md,CLOSED,115h01m,110,1,5,5,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA1ODU5MTU4, Added link to Stripe engineering blog,CLOSED,64h59m,0,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA2MjAzNTk5,Fix broken URL,MERGED,19h36m,59,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA2NDQ0ODUx,Fix error in Twitter timeline solution,MERGED,9h25m,31,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA2OTExMzg2,Fix wording in call center solution,MERGED,28h57m,35,1,2,2,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA3ODA3MjQx,Resolve #195: Fix broken GitHub URLs,MERGED,18h13m,21,5,5,5,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA3ODA3ODMz,zh-Hans: Fix typo: 'Twitter' ,MERGED,43h35m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjA5MzExNjk4,Update Twitter/Facebook exercise description,MERGED,39h21m,118,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEwMzAyNTM5,Fix broken links,MERGED,144h04m,271,1,10,11,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEwNTE0MDk5,Fix typo in CAP theorem section,MERGED,13h24m,57,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEyNDcyMDUx,Fix #126: Update link to Anki decks,MERGED,46h56m,191,1,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEyNjA2NzY0,Add Ebook generation script,MERGED,6039h20m,374,7,164,120,3,6
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEyOTY0ODc0,zh-Hans: Fix translation,MERGED,248h19m,0,1,1,1,4,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEzNTMyMjg4, zh-Hans: Update translation,MERGED,239h30m,34,1,4,4,4,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjEzNzE5NjMy,Fix typo in Design Pastebin.com exercise,MERGED,29h40m,0,1,1,1,4,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjE1NTU5MDk2, zh-Hans: Update translation,MERGED,20h24m,0,1,1,1,4,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjE1NzgzODcz,Update Cassandra architecture links,MERGED,77h17m,571,1,2,2,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjE2ODEwOTA5,Update README intro,MERGED,95h59m,0,1,1,1,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjE3NDQxOTM3,Fix #397: Change master/slave to primary/replica,CLOSED,31228h50m,1902,11,33,33,6,5
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjE3NDQ1Nzk2,Resolve #214: Add reference links to message queues section,MERGED,208h22m,18,2,4,4,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjIxMTcwNDI4,Update Scalability for Dummies link,MERGED,57h05m,0,4,4,4,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjIyOTUwMjE5,ja: Fix typo,MERGED,248h45m,304,1,7,7,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjI0MDg4NTU2,zh-TW: Update index anchors,MERGED,314h06m,313,1,20,20,4,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjI3NTkyNjU3,Add Link: A 360 Degree View Of The Entire Netflix Stack,MERGED,301h40m,56,1,1,1,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMwOTE5MDk4,Proper text formatting,CLOSED,730h43m,86,1,7,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMxMTE3NzE0,fixes mutex latency for ja,CLOSED,714h51m,88,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMxMTE3OTQz,fixes mutex latency for zh,CLOSED,714h50m,90,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMxMTE3OTk0,Fix #228: Address mutex latency discrepancy,MERGED,809h06m,89,4,4,4,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMzMzUyMzc5,Add availability in numbers section,MERGED,4040h30m,148,1,47,0,5,7
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjMzNDQ4MDQx,--fix: Missing `path` in argument.,CLOSED,3234h34m,127,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjM4ODkwMjM0,Add Bengali translation link,MERGED,308h12m,0,1,1,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjQxNDc2NzM0,Add missing word in cache write through discussion,MERGED,155h59m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjQ0NjU2Nzcy,zh-Hans: Fix typo,MERGED,137h22m,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjQ3NDI5ODA4,Fix grammar in document store section,MERGED,234h15m,86,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjUxNzEwMjQ5,Fix typo in Twitter timeline and search solution,MERGED,33h27m,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjUxNzQ5MTY4,Translate language list,MERGED,2160h12m,308,1,1,1,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjUzNzk1OTcz,add line engineering blog,CLOSED,1218h18m,61,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjU0Nzk1NzMy,Update document-store to document store,MERGED,182h43m,46,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjU3MDk0MzY1,Enable Python syntax highlighting in Pastebin sample code,MERGED,84h50m,97,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjU3Njk3NTA3,Fix broken SQL link in Scaling AWS exercise,MERGED,362h11m,141,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjU5NzQzMDkz,Merge pull request #1 from donnemartin/master,CLOSED,0h01m,22,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjY3NTc4Mzg3,Merge pull request #1 from donnemartin/master,CLOSED,0h02m,34,0,0,0,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjY4NTQ2OTUx,Add Stripe engineering blog to README.md,CLOSED,23h43m,0,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjcwMjIzOTIw,Enable syntax highlighting in all python code snippets,MERGED,573h38m,194,10,30,30,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjcxMzM3MjUz,Removed confusing and duplicated diagram from the header.,CLOSED,10656h37m,0,1,0,5,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjczNzY2MDM1,zh-Hans: Translate Pastebin solution,MERGED,1233h49m,28,2,331,1,3,6
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjc1NDQ0MzMw,Update HDFS design link to the latest version,MERGED,113h19m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjc4MDQ3ODUy,Update language list in translations,MERGED,38h06m,0,3,4,2,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjgwMDcyNDMx,Add a Gitter chat badge to README.md,CLOSED,0h04m,960,3,1789,0,4,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjgwMDcyODc5,Resolve #271: Add a Gitter chat badge,CLOSED,285h24m,301,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjgzNDczNTY5,Add Hebrew translation link,MERGED,24h11m,0,4,4,4,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjg5NjM1Nzg5,ja: Fix typo of Big-O notation in KVS section,MERGED,412h48m,361,1,1,1,3,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjkxOTEyMzE1,Use epub-metadata option,CLOSED,8981h18m,125,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MjkzMDU1MTk1,Change disk to HDD for clarity,MERGED,9054h31m,219,1,3,3,5,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk0NzE1MjM5,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,24,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk0OTQ5ODI2,ja: Fix translation in weak consistency section,MERGED,692h02m,228,1,2,2,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk1Mzk1MTEx,ja: Fix translation in push CDNs section,MERGED,622h21m,133,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk1Mzk5Njg4,ja: Fix translation in horizontal scaling section,MERGED,622h10m,185,1,1,1,4,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk2MjIxMTUz,ja: Fix translation in reverse proxy (web server) section,MERGED,574h54m,121,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk2MjI3NTky,ja: Fix translation in Federation section,MERGED,609h03m,707,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mjk4OTgwOTcy,ja: Fix mistranslation in SQL tuning section,MERGED,3443h42m,63,1,11,11,3,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzAwMzY5NzM2,ja: Fix translation in Anki flashcards section,MERGED,511h41m,140,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzAwMzcwMTkz,ja: Fix translation in Load balancer section,MERGED,511h40m,240,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzAwMzcwNjgy,ja: Fix translation in Service Discovery section,MERGED,511h39m,297,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzAxODQ5OTEw,Clarify CDN advantages,MERGED,8334h37m,138,1,1,1,4,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzA4MTk4MjM2,Add clarity to availability pattern description,CLOSED,7973h30m,54,1,4,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzEwNTY4MTYx,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,26,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzEyOTc4ODQ5,Fix a typo in Layer 7 load balancer of README.md,MERGED,7300h53m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzEyOTkyMzE4,change CN translation to make it more accurate,MERGED,2378h30m,76,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzE1MzcwMTk4,Add links for latency based and geolocation based routing,MERGED,7314h49m,114,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzE1ODAwNTYz,Update DMOZ link - archive,CLOSED,1848h59m,199,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzE1OTU0ODA1,Update dead links,MERGED,7260h19m,0,1,2,3,4,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzI3MDE1NDY3,Add API security checklist inside Security section,MERGED,559h09m,146,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzMyNDIxODM5,Fixed typo.,CLOSED,217h23m,0,1,4,4,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzM0MTEwODM3,Merge pull request #1 from donnemartin/master,CLOSED,97h34m,11,0,0,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzQxNzE4ODk5,Update url for weighted round robin,CLOSED,5660h14m,107,1,2,2,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzQ5NzI2NjYx,kr: Fix Korean translation link in language index,MERGED,5101h05m,216,4,4,4,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzU2OTA0OTY4,raise NotImplemented —> raise NotImplementedError,MERGED,17h05m,302,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzYwMTQ2NjM5,Fix broken link in CAP theorem section,MERGED,966h07m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzYwNTA5MDc2,Resolve #164 - Fix phrasing with availability and partition tolerance,MERGED,4258h05m,167,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzYxOTAxNDQ2,Fix broken 'round robin' links,MERGED,60h55m,295,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzY0NDkxMzMx,Fix link,MERGED,44h53m,48,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzY3MjY5MzMw,update readme.md,CLOSED,3856h18m,250,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzc1NzA1Nzg3,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,26,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzgwOTY4NDc0,zh-cn: Sync with upstream to keep it up-to-date,MERGED,272h25m,0,9,1458,1466,8,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzg1ODk0ODkz,"Revert ""zh-cn: Sync with upstream to keep it up-to-date (#374)""",MERGED,0h01m,128,9,1466,1458,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzg1OTc0NTc0,zh-Hans: Translate solutions,MERGED,473h18m,20,9,2525,10,8,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MzkxOTAwMjMw,Remove extraneous __init__.py,MERGED,2708h41m,0,1,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzk3Mjc4OTcx,Remove redundant space,CLOSED,2329h35m,29,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzk3OTE0MzUy,Remove invalid link,CLOSED,9071h28m,26,1,1,1,4,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0Mzk5MzI5Mzky,"Fix the loop over ""self.cards""",MERGED,2231h56m,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDAwNzc5MTY3,fix: typo,MERGED,2005h40m,49,1,2,2,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDAyMzYyMzU5,Missing comma,MERGED,1904h21m,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDAyNzM1NTQ1,Add CAP theorem video,MERGED,2047h55m,132,1,1,0,4,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDA2MjUwMDQ5,Remove redundant SQL index in Pastebin exercise,MERGED,1853h49m,157,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDc5,Check dependencies in Ebook gen script,MERGED,1674h05m,116,1,15,1,3,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDEwMzg0NzM0,Included apache kafka for event queuing,CLOSED,1740h54m,108,1,4,0,10,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDEzNzE3MDQ0,Fix Mint exercise bugs and typos,MERGED,1493h14m,0,1,8,8,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDE1NTU5NDg2,"Update ""Scaling up to your first 10 million users"" link",MERGED,398h46m,155,1,4,4,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDE5MTU3NzIx,Update design Twitter back-of-the-envelope calculations,MERGED,1147h53m,92,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDIyMzYyMTgz,Fix typo: Change replication to federation,MERGED,994h12m,171,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDM0NzE2MTQw,Fix: metadata-file,CLOSED,582h20m,230,1,1,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDM3NDI2MDM1,"Write word ""Korean"" in Korean language.",CLOSED,359h25m,70,4,4,4,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQyMjU0MTIz,Added system design template,CLOSED,0h04m,0,1,90,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQyMjYwMzc1,Add system design template link,MERGED,114h57m,0,1,1,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQzMTEzNzU2,Update contributing guidelines for translations,MERGED,0h12m,0,1,20,14,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQzMTI1NjY0,Add pull request template,MERGED,0h00m,0,1,11,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQzNzk5OTIw,Add status of translations,MERGED,0h15m,0,1,163,0,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQzODA0Mjc4,Highlight translation request,MERGED,0h00m,0,1,2,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQ0MzAzNzQy,Fix typos in Twitter and web crawler exercises,MERGED,22h18m,79,2,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQ0MzUwOTQy,Fix #313: Clarify availability patterns,MERGED,11h51m,35,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQ0MzU4NTcx,Redesign front Diagram,CLOSED,3504h10m,376,1,2,1,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQ1MTMxMzAy,Resolve #281: Add design stock exchange links,MERGED,132h06m,75,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDQ3MzczMjI3,Included kakfa for message queuing,CLOSED,6396h21m,588,1,4,0,10,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDUwMzI1NjYz,Fix #335: Update OSI image to Open Systems Interconnection ,MERGED,409h47m,588,1,0,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDU2NzQ3NzY5,Fix translations link in PR template,MERGED,173h05m,43,1,1,1,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDYzNzI2NTA5,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,675,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDY3MDU5OTMw,Merge pull request #1 from donnemartin/master,CLOSED,358h54m,722,0,0,0,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NDgxNTEwMjE3,docs: add links to top with jump2header,CLOSED,13960h21m,497,1,145,145,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTAwNzY4ODg1,Update broken HBase architecture link,MERGED,486h12m,347,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTAyOTE0OTE4,changed user_id size from 32 bytes to 8 bytes,CLOSED,7345h25m,125,1,1,1,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTE4NDMxODc2,Fix Celery url,MERGED,1167h04m,35,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTE5MzY2NTU2,Add German translation,CLOSED,1958h02m,51,1,1836,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTIwODcwNTI3,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,671,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTYwNTcwNDgx,Update indieflashblog link,MERGED,544h42m,858,4,4,4,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTY0NzMzNzkx,de: Add translation,CLOSED,6189h29m,652,1,322,0,5,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTY2MTQ1ODQ4,Fix LRU cache link,MERGED,320h29m,132,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTczOTkzODky,Merge pull request #1 from donnemartin/master,CLOSED,0h00m,666,0,0,0,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NTc4MTAwMzE2,Fix capitalization of Dropbox,MERGED,1815h14m,150,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NzAzNDk0NjE2,Add Vietnamese translation,CLOSED,0h00m,693,1,1884,0,1,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NzEyNjgwMzEx,add lint and pdf,CLOSED,0h00m,652,3,28,1,1,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0NzMwODg3Mzkx,en: removed a dead link,CLOSED,9h34m,776,1,0,1,2,2
+donnemartin/system-design-primer,PR_kwDOBPXfqc4smD2w,Added Freshworks company engineering blog,CLOSED,0h02m,246,1,1,0,1,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc4srM8z,Update generate-epub.sh,CLOSED,7344h26m,652,1,2,1,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc4s-_1M,Update GitHub Engineer Blog link,MERGED,910h19m,678,4,4,4,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc4uCesi,En: Add Apache SystemDS as ML system for data science,CLOSED,2088h16m,140,1,2,0,1,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc4wOteF,Fix memcache architecture URL,MERGED,1237h27m,145,4,4,4,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc4waLwB,Added white background to all images (#630),CLOSED,10008h31m,246,54,0,0,6,4
+donnemartin/system-design-primer,PR_kwDOBPXfqc4yUMyn,Propose reliability non-functional requirements in the initial readme,CLOSED,2230h53m,2007,1,3,0,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc406Op1,Replace broken weighted round robin link (#650),MERGED,651h48m,652,1,1,1,3,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc41HGTQ,"fix: fix ""How to Ace a Systems Design Interview"" link",CLOSED,0h01m,652,4,4,4,1,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc41Vexc,Switch to gender neutral terms,CLOSED,0h03m,289,13,23,23,1,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc41V-wQ,Switch to gender neutral terms,CLOSED,0h15m,528,2,2,2,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc42VFOu,Fix typos,MERGED,141h12m,0,3,3,3,3,3
+donnemartin/system-design-primer,PR_kwDOBPXfqc45NmNH,Updated f-string formats,CLOSED,2h07m,725,8,8,8,1,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc48X5IA,Fix Typo,MERGED,19h41m,17,1,1,1,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc496m13,efew,CLOSED,0h00m,652,45,184,183,33,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc4_a0bL,Changes,CLOSED,71h04m,652,1,1,0,1,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc5CP6fA,"Add README-vi.md, translate motivation section",CLOSED,0h01m,652,1,1838,0,1,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc5CSCWI,Update latency vs throughput blog link,MERGED,171h02m,652,1,1,1,2,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc5DTPOA,Fix top k requests link,MERGED,512h37m,652,1,1,1,3,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc5Fuhik,Remove anki links,CLOSED,0h00m,652,11,2,5717,1,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc5Ib6LS,deleted,CLOSED,0h02m,652,2,0,3625,1,1
+donnemartin/system-design-primer,PR_kwDOBPXfqc5JyVvg,Solved Broken Link Issue #683,CLOSED,1068h20m,64,1,1,1,2,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc5KPFue,Added link of System Design Roadmap,CLOSED,1212h20m,696,1,1,0,2,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc5KaR8K,Use wayback machine for lecloud.net links,CLOSED,1152h20m,106,1,5,5,2,0
+donnemartin/system-design-primer,PR_kwDOBPXfqc5LnCRN,Fix Scalability Article links,MERGED,179h55m,721,1,5,5,2,1
