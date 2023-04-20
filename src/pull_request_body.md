@@ -1,1 +1,3 @@
-<p>A small fix to change to drop the "a" in "solving a many interview questions".</p>
+<p>Pure ruby with a particular architectural style.</p>
+<p>We decided to write this to provide actual working examples with a series of articles we have written / plan to write.</p>
+<p>Thanks for creating the RealWorld spec, btw. I think it's a very useful idea ;)</p>
