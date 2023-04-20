@@ -33,7 +33,7 @@ def get_remaining_requests(token):
 def get_data(nameWithOwner):
     load_dotenv()
 
-    tokens = [os.environ["token3"], os.environ["token4"], os.environ["token5"]]
+    tokens = [os.environ["token1"], os.environ["token2"]]
     token = random.choice(tokens)
 
     url = "https://api.github.com/graphql"
@@ -88,7 +88,7 @@ def get_data(nameWithOwner):
     row_data = []
     while True:
         print("1 * REQUISIÇÃO ")
-        sleep(0.5)
+        sleep(0.9)
         response = requests.post(
             url, json={"query": query, "variables": variables}, headers=headers)
 
@@ -100,6 +100,9 @@ def get_data(nameWithOwner):
 
             prs = data['data']['repository']['pullRequests']['nodes']
             for pr in prs:
+                m = pd.read_csv("metricas2.csv")
+                if pr["id"] in m:
+                    continue
                 if pr["reviews"]["totalCount"] < 1:
                     continue
                 num_reviews = pr["reviews"]["totalCount"]
@@ -137,6 +140,8 @@ def get_data(nameWithOwner):
 
                 row = [name_owner, pr_id, title, state, review_time, num_reviews, num_caracteres,
                        num_arquivos, num_additions, num_deletions, num_participants, num_comments]
+                if row in row_data:
+                    continue
                 row_data.append(row)
             if not page_info['hasNextPage']:
                 break
@@ -148,10 +153,11 @@ def get_data(nameWithOwner):
 
         variables['after'] = page_info['endCursor']
 
-    with open('metricas.csv', mode='a', newline='') as file:
+    with open('metricas2.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         for row in row_data:
             writer.writerow(row)
+    return
 
 
 def main():
