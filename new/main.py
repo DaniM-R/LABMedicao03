@@ -9,6 +9,7 @@ import requests
 import os
 from dotenv import load_dotenv
 import csv
+from requests.exceptions import ChunkedEncodingError
 import markdown
 
 
@@ -87,9 +88,13 @@ def get_data(nameWithOwner):
     headers = {"Authorization": "Bearer " + token}
     while True:
         sleep(0.9)
-        response = requests.post(
-            url, json={"query": query, "variables": variables}, headers=headers)
-
+        try:
+            response = requests.post(
+                url, json={"query": query, "variables": variables}, headers=headers, timeout=50)
+        
+        except Exception as ex:
+            continue
+           
         data = json.loads(response.text)
 
         row_data = []
@@ -122,11 +127,7 @@ def get_data(nameWithOwner):
                         continue
 
                 markdown_body = markdown.markdown(pr['body'])
-                with open("pull_request_body.md", "w", encoding="utf-8") as file:
-                    file.write(markdown_body)
-                with open("pull_request_body.md", "r", encoding="utf-8") as file:
-                    content = file.read()
-                    num_caracteres = len(content)
+                num_caracteres = len(markdown_body)
                 num_arquivos = pr["files"]["totalCount"]
                 num_additions = pr["additions"]
                 num_deletions = pr["deletions"]
@@ -137,7 +138,7 @@ def get_data(nameWithOwner):
                 name_owner = nameWithOwner
 
                 row = [name_owner, pr_id, title, state, review_time, num_reviews, num_caracteres,
-                       num_arquivos, num_additions, num_deletions, num_participants, num_comments]
+                    num_arquivos, num_additions, num_deletions, num_participants, num_comments]
                 row_data.append(row)
             
             with open('pull_requests.csv', mode='a', newline='') as file:
@@ -157,6 +158,7 @@ def get_data(nameWithOwner):
 def main():
     df = pd.read_csv("repos.csv")
     for index, row in df.iterrows():
+        print(row["Nome"])
         get_data(row["Nome"])
 
 
