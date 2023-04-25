@@ -80,7 +80,7 @@ def get_data(nameWithOwner):
     """
 
     variables = {
-        "after": "Y3Vyc29yOnYyOpHOANwyUQ==",
+        "after": None,
         "owner": nameWithOwner.split("/")[0],
         "name": nameWithOwner.split("/")[1]
     }
