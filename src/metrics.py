@@ -93,6 +93,7 @@ def get_data(nameWithOwner):
             url, json={"query": query, "variables": variables}, headers=headers)
 
         data = json.loads(response.text)
+        print(response.content)
 
         if response.status_code == 200:
             print("2 * MANIPULAÇÃO DOS DADOS (STATUS CODE = 200)")

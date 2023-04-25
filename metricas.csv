@@ -1,1 +1,1058 @@
-name_owner,pr_id,title,state,review_time,num_reviews,num_caracteres,num_arquivos,num_additions,num_deletions,num_participants,num_comments
+name_owner,pr_id,title,state,review_time,num_reviews,num_caracteres,num_arquivos,num_additions,num_deletions,num_participants,num_commentsfreeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0NzU4NDY2MjQ=,Overhauled Certificates,MERGED,2163h10m,1,620,8,352,84,11,31
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0NzU4NDY2MjQ=,Overhauled Certificates,MERGED,2163h10m,1,620,8,352,84,11,31,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0NzY4NzM0NzY=,feat(auth): Implement Passwordless Authentication,CLOSED,10044h31m,13,765,17,528,329,7,42,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0NzgwNjM3MzE=,French Translation for HTML and CSS,MERGED,156h44m,1,2453,1,80,0,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODI3MTQxMjE=,updated to use alternate to openweathermap api,MERGED,1134h41m,1,2691,1,1,1,7,17,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODMyMDM2ODU=,Getting Started - Learn how Free Code Camp Works translated into Braz…,CLOSED,710h53m,1,2249,1,77,0,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODQyOTEzMTc=,fix Big-o-notation from exponential time to polynomial time in videos/big-o-notation-a-few-examples,MERGED,463h29m,1,2235,1,1,1,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODQ5MzkzNzE=,Feat(challenges): Adds the ability to test with async methods,MERGED,384h22m,4,0,1,48,11,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODU0ODc1MjQ=,Add more explanation for what escaping is,MERGED,366h16m,2,1033,3,8,4,6,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODU1NTk1MjA=,Update Test,CLOSED,7h12m,1,207,1,1,1,5,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODU2NjE5OTE=,fixes syntax typo,MERGED,7h41m,1,2102,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODU4NDM1Mjg=,Update basic-javascript.json,MERGED,603h07m,3,2182,1,1,0,5,22,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODU4ODk1ODg=,"Curriculum Expansion: Visual Design reorder, text review, and assert tests working.",MERGED,7h11m,2,2650,1,2230,2079,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODYwMjA0NDU=,Added emoji support for Bio,MERGED,467h17m,1,621,2,7,1,8,36,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODYwMjM5MDg=,Add reset progress option to user settings,MERGED,861h20m,11,2525,3,73,0,7,23,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODYwMzIzOTY=,[Snyk] Fix for 11 vulnerable dependency paths,MERGED,0h10m,1,1354,1,20,0,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODYzMjg3MTg=,Update basic-bonfires.json,MERGED,357h05m,2,196,1,1,1,7,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODYzMjk2MDk=,Added test for unmodified return statement,MERGED,584h19m,2,1947,1,1,0,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODY0Mzc0MDM=,WIP: Changes to enable development environment to use containers,CLOSED,1022h39m,4,2556,6,250,3,4,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODY1NDczNjc=,Feat(challenges): Let tests be objects,MERGED,73h00m,3,151,2,13,5,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODY2MTg5MjA=,Updated line on conditions for API usage,MERGED,0h03m,1,605,1,1,0,1,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODY2Nzk2ODE=,"Regex QA: intro, text edits, assert tests working",MERGED,15h37m,1,2098,3,563,488,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODcwNDc3MTQ=,Fix(react): use className not class,MERGED,12h07m,1,56,2,8,7,1,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODcxMzUzMjA=,"add ability to unlink social accounts (twitter, linkedin)",MERGED,696h15m,15,2628,2,109,27,8,22,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODcyODI1MDM=,Fix missing link in updated instructions,MERGED,8h21m,1,2557,1,1,1,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc0MjY1NjM=,Sass section QA and intro,MERGED,4h16m,1,1975,1,287,159,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc0MzYwNzA=,Fix typo in html5-and-css,MERGED,1h45m,1,2159,1,1,1,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc1MzUyNzE=,"email setting, blur button on click",CLOSED,12h15m,1,2416,1,131,99,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc2NTA1MzU=,Translating Getting Started - Learn What to Do If You Get Stuck secti…,MERGED,44h41m,3,2240,1,53,0,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc2NjE1MjU=,"Capitalize the word ""HTML"" for consistency",MERGED,9h46m,1,2152,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc5NDU0MDY=,fix error in about page,MERGED,0h07m,1,1548,1,2,2,1,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODc5OTMzMTk=,feat(challenges): add backend challenge infrastructure,MERGED,2741h36m,1,0,25,770,359,6,50,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODgzODE5NTY=,"Fix sitemap, remove jobs remnants",MERGED,57h55m,1,123,7,42,39,1,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg0OTc2ODk=,Fix Contributing Guide To Remove Need For Wiki Article,MERGED,117h58m,2,1345,1,151,90,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg1NzUzOTY=,Update challenge description,MERGED,1h46m,2,75,1,2,2,2,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg1NzgyMTA=,Fixed challenge description,MERGED,3h21m,3,2125,1,2,2,3,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg2MDY1NjQ=,margins code challengeverification  order to TopRightBottomLeft,MERGED,3h35m,1,1198,1,2,2,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg2Mjg4ODY=,Re-order Margin Tests to Top-Right-Bottom-Left,MERGED,6h23m,1,2384,1,2,2,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg3MjcyODE=,Add Twitch.tv pass-trough API link,MERGED,32h36m,1,2283,1,1,1,6,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODg5MjUxMzA=,"removed excess notes from ""Change the Font Size of an Element"" challe…",CLOSED,28h39m,2,2368,1,4,8,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODkwMjY5MDQ=,Fix 'npm run only-once' command on Windows,MERGED,69h56m,1,3075,1,1,1,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODkyNjI2NzE=,Add how we QA and how we close stale issues sections,MERGED,22h51m,7,2103,1,21,0,3,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODkzNDg2OTU=,Fix consistency between questions,MERGED,11h22m,1,2217,1,1,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk0MDY2MDc=,"Added ""Go to next challenge"" button",CLOSED,8h09m,1,2247,6,71,11,4,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk0NTM5MDM=,Fix minor typos,MERGED,2h14m,1,2180,1,2,2,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk0NTc5OTU=,Fix minor typo in instructional text,MERGED,1h44m,1,2591,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk0OTQ1MDg=,Fixed styling issues with Hikes,MERGED,481h09m,1,0,4,12,36,4,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk1MDc0NjA=,Modified challenge description for issue #10409,MERGED,93h30m,2,2278,1,1,0,6,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk1MjY0Njk=,Added Block name to Challenge and Document Title,CLOSED,27h10m,1,1938,5,45,6,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk1NzQ0MDg=,Fix error toast not display when JavaScript syntax error,MERGED,93h41m,1,2811,1,4,7,3,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk2OTkzMjQ=,Feature/Block names added to challenge and document titles,MERGED,1416h14m,28,2201,12,146,90,4,24,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0ODk3MTc0MTQ=,Reactified Success Modal,MERGED,1176h57m,30,2179,9,176,18,7,28,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTAxMzgxMzA=,"Fixed the wording for ""color words"" vs ""hex codes""",MERGED,9h48m,2,2168,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTAzOTk5MTU=,Modified test case to look for the exact statement.,MERGED,774h00m,4,2264,1,1,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA0MTE1MTQ=,Modified Caesar Cipher test description,MERGED,65h16m,5,2171,1,4,4,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA0OTIzMDU=,Next step unlocked persistence,MERGED,1850h28m,10,2164,6,99,39,4,15,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA0OTg3MDM=,Documentation Improvement: Checking versions of prerequsites,MERGED,80h04m,6,1881,1,9,0,5,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA2MTYyMjU=,Added additional test case to the Confirm the Ending challenge,MERGED,70h39m,3,2141,1,2,0,4,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA3MTEzMjY=,Improve wording in instructions in Make Dead Links challenge,MERGED,61h18m,4,2329,1,1,1,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA3MzI0Njg=,Update react-router to version 3.0.0 🚀,CLOSED,284h27m,1,6324,1,1,1,4,14,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA3NDgxMTc=,Add Test Case to 'Count Backwards In For Loop',MERGED,63h36m,3,2403,1,1,0,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA3NzYxMTY=,Add loopProtect error object,MERGED,54h50m,2,2267,1,4,4,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA4NDk1MDg=,fix optimizely csp for script-src,MERGED,45h58m,6,2467,1,8,5,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTA5MzQ0MzA=,Code with hyperdev.com url should not run,MERGED,32h47m,2,2245,1,10,0,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTEyOTY1NDI=,fix(jsx): prevent bootstrap from injecting props to react primitive,MERGED,0h28m,5,36,2,23,8,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTEzNDA2NTk=,show core team status in user profile,MERGED,107h36m,5,2104,2,13,0,6,17,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTEzOTk4MDM=,Fix translations for bootstrap grid challenge,MERGED,0h19m,1,2287,1,2,2,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTEzOTk4Mjc=,fix(lint): disable import extension requirement,MERGED,3h13m,7,338,1,1,1,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE0ODgwMTE=,Modified tests and descriptions for External Link challenges.,MERGED,584h27m,8,2414,1,7,7,5,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE1MzQ0MDY=,Remove FontAwesome from 'client/less/lib/',MERGED,13h19m,1,142,34,0,5174,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE1MzUzNjg=,Added note about language degradation,MERGED,13h11m,1,2088,1,6,0,2,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE1NDE5NzM=,Fix/Replace nbsp in campers code,MERGED,109h28m,7,2198,1,10,0,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE1NDg1MTA=,Remove bower and port dependencies over to npm,MERGED,2876h42m,14,2524,15,50,85,4,23,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE2MDc5MzM=,Improve Exact Change readability,MERGED,162h01m,2,2230,1,17,17,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE2Nzg0NjY=,"Added new certifications, removed old ones",CLOSED,3942h10m,7,465,32,753,460,8,21,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTE4MTEwNDk=,Update history to version 4.4.0 🚀,MERGED,25h07m,3,4627,1,1,1,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTIxMjk5Nzg=,"Revert ""Update history to version 4.4.0 🚀""",MERGED,0h03m,1,115,1,1,1,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI0MTc2MTY=,Fixed minor typo in second cat object,MERGED,0h41m,1,2084,1,1,1,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI0ODMzMjk=,Added note about language degradation,MERGED,564h58m,10,2339,4,55,8,5,15,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI0ODY1MzI=,Feat: Travis Build Badge in README,MERGED,1h29m,1,2143,1,1,0,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI1Mjk3ODY=,Fixed odd menu behaviors on mobile,MERGED,299h16m,3,2093,2,3,1,7,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI2NTQwMTU=,Add note about order of array elements in Diff Two Arrays,MERGED,12h11m,1,2178,1,2,1,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI3MDg4ODQ=,Update link to article on integrating mongodb on heroku,MERGED,15h21m,1,3311,1,1,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTI4ODI0OTk=,Do not render challenges with undefined titles. Plus typo fix.,CLOSED,0h17m,3,2178,3,15,11,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTM0NDU5MzY=,Remove stampit in favour of a factory function,MERGED,125h14m,2,2110,3,30,35,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTM0NDYzMzg=,Documentation: Link for Maintaining Local Instance of FCC,MERGED,4h10m,1,1549,1,2,2,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTM0NjE1NjU=,Remove rules from projects(staging),MERGED,9h03m,1,2257,5,20,51,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTM0NjczOTU=,Simplify package.json,MERGED,3h47m,1,67,1,1,4,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQyODg2MTI=,Modified phrasing in Comparison with the Greater Than Or Equal To Operator,MERGED,5h23m,1,2498,1,4,4,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ0NzA0ODM=,"D3 QA, OOP & FP intros, new Vis Des & Resp Des challenges",MERGED,998h38m,3,2568,5,1502,957,6,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ0ODMzNTU=,Resolve react-hot-loader error,MERGED,127h56m,1,4022,1,4,2,4,16,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ1MDkzNDI=,"add api users/stats, git-stats format records",CLOSED,763h16m,6,2533,2,65,1,5,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ1NDI2MDE=,"Clarify instructions for ""Understand String Immutability""",MERGED,213h06m,3,2165,1,1,1,6,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ2Mjk2OTc=,Fix/geolocation 1,CLOSED,15h24m,1,2086,2,2,2,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTQ2ODgwODI=,Update redux-actions to version 1.0.1 🚀,CLOSED,51h34m,1,5378,1,1,1,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUwOTcwOTk=,Fix: Entities reducer refactor to enable update of redux-actions,MERGED,1008h29m,6,2375,3,66,71,3,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUyMzg2NDI=,Fix: Lang routes persist between sessions,MERGED,843h08m,1,2179,2,6,3,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUyNjExMjM=,Add note about radio buttons in responsively style radio buttons,MERGED,38h41m,2,2204,1,2,1,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUzMDUwNDc=,Update contributing.md,MERGED,31h10m,6,4243,1,26,25,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUzNjU1OTc=,Add test to profile lookup challenge,MERGED,11h35m,1,2311,1,2,1,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTUzODM5MTg=,add test to import and degrade font challenges,MERGED,12h31m,5,2237,1,2,1,6,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU0MDc3Nzc=,Change instructions in Counting Cards Challenge,MERGED,21h03m,2,2216,1,1,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU0NDkzMzE=,revised description for Concatenate Arrays with .concat,CLOSED,16h32m,2,2202,1,4,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU2MTYxMjA=,Revise description for Concatenate Arrays with .concat Challenge,MERGED,2h10m,4,2277,1,6,3,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU3NTQzMTA=,fix(issue-reports): Remove encoded solution,CLOSED,204h22m,2,2180,1,1,1,3,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU4NDAzMjI=,fix for error when trying to run locally,CLOSED,15h36m,2,2084,1,14,1,6,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTU5MTY4NTU=,Update redux-form to version 6.2.1 🚀,CLOSED,103h42m,1,10943,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTYwMTA5MzY=,Remove reset/delete account progress animations and change color/increase size of buttons ,MERGED,94h11m,3,2224,3,53,2,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTY0NTY0NjE=,Update Redirect when cancelling to remove account,MERGED,24h05m,2,2084,1,2,2,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTY0ODA1NjQ=,Add P2P Video Chat Application to Extra Projects,MERGED,176h47m,5,2203,1,25,0,7,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTcwNzI3NjQ=,fix(issue-reports): Remove encoded solution,MERGED,63h33m,1,109,1,1,1,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTczODYzNjk=,fix minor typo in getting started guide,MERGED,7h57m,1,2084,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTczODc0MzI=,fix(seed): fix console.log in basic JavaScript challenges,CLOSED,1163h30m,7,438,1,103,82,6,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc0MTI0OTE=,change test to ensure use of /,MERGED,1132h11m,15,2135,1,5,6,5,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc0NTU5ODU=,Make translated challenge titles searchable,MERGED,681h50m,2,2372,3,39,18,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc1NDgzMjA=,fix(license): Update License.,MERGED,9h00m,1,437,3,454,177,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc2NDQzOTQ=,Reduce client/server markup mis-matches,CLOSED,1688h33m,2,2245,5,25,29,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc4MDA3MDY=,Center Testimonial Text,MERGED,31h50m,2,2212,1,1,1,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTc4ODc0NTc=,Update react-redux to version 5.0.0 🚀,CLOSED,592h22m,1,9477,1,1,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTgwMzk1NTg=,feat(user): Report profiles,MERGED,1030h45m,9,306,6,139,14,4,16,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTgzMDE4MDM=,Update instructions for Stand in Line Challenge,MERGED,3h46m,1,2211,1,3,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTg0NzcwNjE=,improved sentence structure,MERGED,0h13m,1,2084,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTg2MjU5NzE=,Update test message in circular-border-radius challenge,MERGED,365h46m,1,2173,1,1,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTg2NzgwNzQ=,Use HTML5 to Require a Field grammar fix,MERGED,16h48m,2,2150,1,1,1,5,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTg4ODk2Mzc=,Fix Night Mode Inactive Button Colour,MERGED,825h17m,3,2265,3,24,5,5,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTg5MzIyNzk=,Add instructions in Contributing to not put issue # in commit msgs,MERGED,1h54m,8,2184,1,2,2,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTkwNTAxMTU=,Improved testing and message for create a form element challenge,MERGED,12h30m,2,1945,1,1,1,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTkyOTA4MDU=,Fixing typo found in intermediate algorithm challenge,MERGED,37h34m,2,2239,1,1,1,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTkzNDcyODQ=,improve github linking copy and error message,MERGED,91h51m,1,351,4,10,8,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTkzODI3MTE=,Add Brazilian Portuguese basic-bonfires translations,MERGED,83h23m,1,1915,1,173,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTkzODU2NzE=,Add Brazilian Portuguese basic-ziplines translations,MERGED,81h49m,1,2250,1,75,0,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4MDUxODY=,chore: update license year,MERGED,4h41m,1,2084,2,2,2,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4MTgyNTQ=,Grammatical Fix,CLOSED,49h29m,2,2105,1,1,1,6,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4MzkyNTk=,feat(nav): Show dropdown hover,MERGED,25h07m,3,20,6,65,25,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4NDYxNjY=,fix(CI): Remove Friendly Date Ranges,MERGED,11h32m,1,159,1,0,81,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4Nzk3Mzc=,Improve console.log output,MERGED,54h36m,4,4035,1,28,7,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4OTYwNDM=,Update phone number and description,MERGED,79h36m,1,2316,1,5,5,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0OTk4OTc0ODQ=,Clarify btn-primary instructions,MERGED,331h14m,6,2396,1,5,5,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwMDI0NTU0,add new nav dropdown options,MERGED,25h22m,2,0,1,46,23,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwMjQyMjY5,unsubscribe all users with the same email address,MERGED,178h47m,7,2703,1,10,10,4,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwMjU1NzA1,Updated mongodb running command in c9.io,MERGED,20h39m,1,941,1,1,1,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwMjYyMjc3,Add wbr tag on sample code,MERGED,19h59m,1,2106,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwNDc0OTc1,Search and Replace challenge description,MERGED,0h33m,1,2382,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwNjA4MzAy,updated font awesome to latest version,CLOSED,15h05m,1,2093,1,1,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAwNjgzMzYy,Corrected Grammatical Errors.,MERGED,43h36m,2,2120,1,3,3,3,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxMDMxMjYz,Fix s/Free Code Camp/freeCodeCamp in /server/views,MERGED,9h34m,1,2221,23,95,95,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxMzQ2MjU5,Enable react/sort-prop-types rule,MERGED,1104h18m,1,201,33,316,267,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxMzc3MDEw,translated Getting Started in italian,MERGED,170h11m,1,1126,1,14,3,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNTMzODEz,Add more Free Code Camp places in README.md,MERGED,6h12m,4,476,1,1,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNTQ2ODc3,changed 'backward' to 'backwards' in challenge copy,MERGED,3h00m,1,2667,1,3,3,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNTUxOTYw,chore(server): updated server to freeCodeCamp,MERGED,0h31m,1,3440,8,81,81,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNTc5Njcw,added LESS rule for <dfn> tag in  nightmode,MERGED,13h47m,1,2362,1,5,1,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNTkzODc2,Make forum wiki articles available in Map,CLOSED,3029h19m,8,2350,23,714,14,4,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNjA2NzEw,Rename to freeCodeCamp in md files,MERGED,3h02m,3,2791,5,42,42,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNzM5Mzg5,Removal of server/ssl-config.js,MERGED,1h00m,1,2142,1,0,16,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxNzQzNTEw,"fix(nightmode) Update modals, dropdown, menu-toggle",MERGED,57h17m,1,3115,2,37,3,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxODg1OTYz,Changed the word 'swell' to the word 'well' in Basic Javascript challenge,MERGED,0h36m,1,2489,1,3,3,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAxOTYyODI4,Add test to assert single h1 element,MERGED,7h39m,1,2340,1,1,0,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyMDUzMzg0,Add links to platform-specific guides to setting up a development environment,MERGED,67h28m,2,2471,1,4,0,4,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyMjQ2MDMw,Update test case in Increment a Number with JavaScript,MERGED,0h24m,1,2216,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyMzgzMTM4,fix(seed): Missing/duplicate info,MERGED,0h06m,5,0,4,8,348,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyMzg2NDg5,chore: Remove unused/deprecated files,MERGED,11h06m,1,0,25,0,2254,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyMzkzNzU5,update blockNameify preformattedBlocks for beta,MERGED,29h05m,1,2353,1,10,5,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNDYwMTk2,Add introduction slide for Basic HTML and HTML5 section,MERGED,6h51m,4,1931,1,37,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNTMzNjc1,"Fix formatting, tests for new HTML and CSS challenges",MERGED,17h47m,2,2343,3,52,69,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNTcxNTY4,add intro to basic CSS challenges,MERGED,2h00m,1,2159,1,48,0,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNTkxOTU5,Fix typo in Data Visualization with D3: Change Styles Based on Data: …,MERGED,1h03m,1,2135,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNTk2NTM1,"Fix testcase-message in ""Convert Strings to URL Slugs""",MERGED,0h16m,1,2460,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjEzODA2,add releasedOn date to new challenges,CLOSED,641h37m,2,2289,52,3131,8402,27,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjIxODQw,Change RWD to RWD Principles to prevent collapsible menu conflict,MERGED,43h24m,3,2370,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjIyODM0,improve tests for parseInt radix,MERGED,6h45m,1,2282,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjM2NzY1,Remove CSS from HTML section,MERGED,120h19m,1,2686,1,534,834,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjM4MDAz,Profile lookup confusion issue fixed,MERGED,69h26m,2,1894,1,5,5,5,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjQyNTgw,working on fix for adv. DS & algos,CLOSED,54h48m,3,2757,2,1762,2804,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyNjgwNzA1,"Fixed Formatting issue in ""Return Largest Numbers in Arrays""",MERGED,6h30m,1,2218,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyODQ5ODgx,changed wording on google font ch.,MERGED,13h38m,3,2198,1,5,7,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyODUyNDQ0,"reformat, refactor basic ds: object challenges",MERGED,13h24m,1,3183,1,119,80,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAyODU1MDU1,Adds JSON example to Convert JSON Data to HTML,MERGED,8h19m,2,2386,1,3,1,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMDA4MjM2,Fix sequencing issues in Basic CSS section,MERGED,66h13m,5,2379,1,646,169,3,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMDUwOTAx,revise copy for intro array challenge,MERGED,87h10m,7,2531,1,119,32,6,13,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMDU5NDIy,"update links and formatting, project landing pages",MERGED,98h54m,2,2499,3,38,32,3,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMDcxODEw,Improvements to adv. algos and data structures,MERGED,70h49m,1,2754,2,1700,2734,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMTI0Njk5,[WIP] Add arrow keys to navigate in step challenges,CLOSED,5267h09m,1,1621,6,106,6,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMjAwODcy,"Test, formatting fixes for new JS challenges",MERGED,117h40m,3,2445,1,68,75,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMjAwOTE1,Fix closing backticks indentation on bug report,MERGED,96h31m,4,1476,1,9,9,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMjM1NzU3,Changed the text enclosed by strong tag,MERGED,137h46m,15,2085,1,24,23,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMjQ2MDgx,Add hint to Falsy Bouncer challenge description,MERGED,31h30m,3,2313,1,1,0,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMzc5MTgz,Fixes multiple flex issues,MERGED,154h22m,5,2152,1,46,40,5,14,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzMzgwOTY2,Prevent 'comment-your-javascript-code' from passing incorrectly due to multi-line comments which are not visible to users,MERGED,60h29m,1,1856,1,2,3,6,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNDMwMDc2,fix quoting strings challenge,MERGED,66h12m,6,3776,1,6,5,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNDY2NjE0,Fix the project pages layout issue,MERGED,11h08m,1,2174,3,18,18,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNDc0NzYy,Removed all empty translations present in the challenges in the seed files,MERGED,125h44m,2,2406,22,335,6596,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNTg3NjE2,"fix(challenge): Update tail section for ""Return a Value from a Function with Return""",MERGED,205h23m,14,1858,1,6,6,6,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNTkyMTg4,fix(challenge): Prevent use of String.repeat() in Basic Algorithm,MERGED,20h51m,4,1444,1,3,2,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNTk4Mjk3,fixes for various typos in the Applied Visual Design section,MERGED,20h18m,4,3039,1,19,20,4,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjA5ODAx,added hint about checking punctuation,CLOSED,1h33m,1,2170,1,3,1,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjMwNTI1,Add introduction for Bootstrap section,MERGED,16h01m,1,1927,1,37,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjQ0ODg5,Format text in several Adv Data Struc challenges,MERGED,7h48m,7,2719,1,66,98,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjQ1ODc4,Make example in Manipulate Complex Obj consistent,MERGED,4h38m,1,2657,1,5,4,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjU1NjU1,Reformatted instructions for the first four ES6 challenges,MERGED,63h21m,10,3037,1,63,112,6,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjU4ODQ1,Improve the sentence to imply the correct meaning,MERGED,0h21m,1,2049,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjU4OTI3,Fix error in instructions for change the prototype to a new object challenge,MERGED,0h23m,1,2128,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjY4MDEz,Reformat ES6 arrow function challenges,MERGED,77h51m,8,2442,1,32,47,6,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjc3NjAx,Format Incidence Matrix challenge,MERGED,17h46m,1,2462,1,16,32,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNjgyNzcz,Update position of x point,MERGED,2h32m,1,2171,1,1,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzNzU3ODMx,Translation of Getting Started in Tradational Chinese (zh-tw),MERGED,173h12m,1,2191,1,228,0,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzODE4MTgz,Fix isBeta challenges displaying without title when they should be hidden,CLOSED,5142h05m,10,1697,2,80,2,6,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzODIyMTU2,Update webpack to version 2.2.1 🚀,CLOSED,1285h21m,1,5580,1,1,1,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzODU3MDM5,Disable loopProtect for non-JavaScript code,MERGED,22h00m,2,2223,1,5,0,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTAzOTk4ODI2,Format Breadth-First Search for graphs challenge,MERGED,21h51m,2,2396,1,14,11,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MDE0NjI5,Fix spacing issue in jquery challenge,MERGED,0h05m,1,2085,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MDMxMzc3,"fix(challenge): Improve example for ""Applied Visual Design: Use the u Tag to Underline Text""",MERGED,163h16m,7,1321,1,31,49,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MDQ2NjIx,fix(challenge): Update instructions and format for text-transform challenge,MERGED,17h32m,1,1865,1,6,4,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MDcxNTkw,update bower.json with resolution for jQuery,MERGED,5h49m,2,2314,1,3,0,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MTUzNjA5,Added a comma to separate x and y coordinates pairs,MERGED,1h27m,1,2871,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MTg5MjUw,Allow empty spaces in text between tags,MERGED,0h15m,1,2085,1,3,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MjYxNTAy,chore(seed): freeCodeCampify remaining sections of codebase,MERGED,21h42m,6,3222,26,396,396,3,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MjY2MTk5,Added edge case tests for Pig Latin challenge,MERGED,6h29m,1,2274,1,3,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0Mjc2NDA1,Updated challenge text formatting to be uniform,MERGED,4h05m,1,2369,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0Mjg1MDcy,Added semi-colon to end of statements,MERGED,2h19m,1,2629,1,4,4,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MzU1MTk1,Added semicolon to Regular Expressions: Match Beginning String Patterns,MERGED,2h20m,1,2500,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MzcxMzUx,Fixes html term to all capslock,MERGED,1h05m,1,181,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0MzgyMzU0,fix(challenge): Decrease the Opacity of An Element,MERGED,5h13m,1,3322,1,1,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NDA0MjI4,"clarified challenge instructions for ""Basic Data Structures: Access an Array's Contents Using Bracket Notation""",MERGED,0h40m,1,2165,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NDI3ODM1,Additional test cases for Escape Sequences in Strings,CLOSED,12h29m,3,2056,1,6,4,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NDUyMTUw,Improve instruction in regex ignore case while matching challenge,MERGED,0h08m,1,2202,1,1,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NDU4MDQw,Improve instruction in regex match single character challenge,MERGED,14h14m,1,2246,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NDY0NzU4,Fix code formatting in regex find characters with lazy matching,MERGED,13h07m,1,2202,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NTA0NjU5,fix(challenge): Additional test cases for 'Escape Sequences in Strings',MERGED,5h14m,1,1976,1,6,4,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjIzNTIz,Improve instructions in regex match repeating characters,MERGED,0h25m,1,2196,1,2,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjQxNDYz,"fix(challenge): Accept more correct solutions for ""OOP: Use dot notation""",MERGED,21h52m,1,2186,1,3,3,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjU3NzMx,"fix(challenge): Stricter tests for ""OOP: Constructor property""",MERGED,12h17m,2,2386,1,4,3,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjY0MjAz,"Added semicolon to end of first statement in the challenge ""Regular Expressions: Find Characters with Lazy Matching""",MERGED,2h10m,3,2490,1,1,1,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjcyMTY3,Reduce complexity of the 'scopes with var and let' challenge,MERGED,90h07m,6,2838,1,17,17,4,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NjczNDQ5,Fix/Dataset Link for Bar Chart Project,MERGED,1h05m,2,2130,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0Njg4NDA4,fix(challenge): fix instructions in serve json challenge,MERGED,197h21m,10,2362,1,4,4,3,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0Njk4NTE1,Simplify truncate a string challenge,MERGED,3h37m,2,1161,1,4,10,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NzA4NTQ0,"fix(challenge): various grammar and formatting, .env node challenge",MERGED,158h52m,12,2564,1,4,3,3,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NzEyMjA0,"fix(challenges): add class to backend challenge wrapper, fix basic no…",MERGED,553h55m,4,2808,2,34,55,4,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NzEzMDI2,replace Hyperdev references with Gomix,MERGED,66h53m,1,2137,6,14,14,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0NzE2MjE5,Revise intro for Basic CSS section,MERGED,1h08m,1,1962,1,1,1,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0ODY5NDkz,Remove hover state requirement,MERGED,26h20m,1,2223,1,3,5,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0ODczMzIy,fix: Update Gomix handler,MERGED,45h56m,1,1935,1,6,6,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0ODc0MTAy,Remove code tags from challenge seed,MERGED,133h40m,4,2627,1,6,18,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA0ODgwMTYw,Chore(package): Remove gitter-sidecar due to vulnerability,MERGED,115h28m,2,171,2,5,4,6,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MDI3ODAx,Feature singly linked list descriptions enhancements,CLOSED,483h06m,4,2668,1,118,107,3,15,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MDg0NDM2,Fix typo in articles,MERGED,1h06m,1,2160,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MDg3OTQ2,Add updated challenge style guide,MERGED,2h27m,10,2068,2,98,0,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MDk4MjY0,Persist night mode on page load,MERGED,1676h34m,7,2255,2,21,0,4,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MTEzMjA3,Image link now opens in new tab,MERGED,236h58m,4,2478,3,56,56,6,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MTQ2MDQ0,Social Authentication challenges added to Advanced Node/Express section,MERGED,52h01m,5,1312,1,112,1,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MjU2MDc0,feat: Add open to contribution badges,MERGED,5h51m,1,111,2,4,0,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1MzUxNTUw,Reword amiguous challenge instructions,MERGED,78h35m,1,2309,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1NTc3ODcw,added step by step instruction on adding an image to a website,MERGED,180h52m,2,2549,1,5,2,3,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1NjQ2MDE0,Fix description of 2nd test in challenge Inventory Update,MERGED,2h52m,1,2155,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1Nzg0NzAx,Ensure use of two arguments in function call,MERGED,0h40m,1,2704,1,2,2,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1Nzg1MzA2,Add TOC and proper noun section to challenge guide,MERGED,27h16m,1,2304,1,24,1,3,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1ODAyNjIz,move the convert celsius challenge over to the algorithm challenges,MERGED,15h40m,1,2231,2,42,48,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1ODEwMzU4,fix(challenge): Improve tests for Circular Queue challenge.,MERGED,138h31m,1,2354,1,10,3,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1ODY4NTE4,Correct em dash in OOP challenge plus formatting,MERGED,1h22m,2,2630,1,2,2,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA1OTk3Mjk0,fix includes polyfill for ie,CLOSED,70h09m,3,2128,0,0,0,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2MDM2MTg3,Fix/typos advanced express tools,MERGED,159h52m,8,2142,1,32,32,6,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2MDM4MjA1,Format Learn how a stack works challenge,MERGED,258h00m,6,2349,1,13,12,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2MDQ3NjAx,Fix typos in infosec challenge,MERGED,3h16m,1,2277,1,3,3,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2MDc3Nzg3,Minor grammar and typo fixes,MERGED,27h41m,2,533,1,2,2,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2MTE1NjUz,Remove extra close brace,MERGED,2h28m,1,2119,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2NTE4NzU4,Add parameter to example code,MERGED,16h28m,2,2234,1,3,8,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODE4ODAw,changed url,CLOSED,8h53m,3,2244,1,2,2,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODQ1NzAx,Reformat ES6 Challenge Descriptions,MERGED,65h02m,2,2347,1,55,63,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODQ1NzM2,Improve instructions in add images challenge,MERGED,15h15m,1,2412,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODQ3NzAy,moved comment to new line to remove overflow-x scrollbar,MERGED,28h49m,3,2222,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODYwNzkx,"Translation of the ""Responsive Web Design Principles"" section into pt-br",MERGED,51h43m,3,2293,1,89,5,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODY4Mzkx,Add missing semicolon at the end of example section statement,MERGED,1h09m,1,2085,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODkxNDY1,refactor(gomix): update to gomix.com,CLOSED,3h09m,1,1840,4,14,14,2,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODkyMDUz,Fix formatting and add tests for array destructuring,MERGED,60h32m,7,2969,1,10,8,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODkyNzY4,Fix instructions and challenge seed in linked-list,MERGED,1h16m,1,2166,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2ODk1MDQz,Reword challenge on font degradation,MERGED,0h14m,1,2348,1,3,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA2OTE2NzQ4,revised circular queue challenge and added working tests,MERGED,22h16m,3,2148,1,40,18,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDQ1NDU5,"fix(challenge): Typo in ""OOP: Reset Inherited Constructor Property""",MERGED,0h21m,1,2116,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDUwMTY2,"fix(challenge): Typo in ""OOP: Use an IIFE to Create a Module""",MERGED,1h13m,1,2143,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDUyMjY3,"fix(challenge): Format constructor property in ""OOP: Set Constructor""",MERGED,0h50m,1,2086,1,3,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDc0MTU2,indexOf() instead of includes(),MERGED,6h36m,1,2139,4,8,8,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDg0NTQ0,Fix/ Missing CSS Selectors in code example,MERGED,9h43m,1,2198,1,2,2,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDk1Mjg2,Fix description in create linked list,MERGED,7h47m,1,2241,1,5,4,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MDk5NDMy,Improve oboe-errors challenge,MERGED,5h49m,6,2274,1,5,3,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MjI0MDEy,"add a new test case for ""Where Do I belong"" challenge",MERGED,0h51m,1,2536,1,2,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MjY5MjMx,Fixed typo in Challenge Code - calculateCircumference,MERGED,1h15m,1,2228,1,3,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3MzUzNDQ2,Correct a typo with enumerable,MERGED,10h10m,1,1462,1,1,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NjAwNjE4,Fix CONTRIBUTING.md link and capitalization,MERGED,97h37m,2,2442,1,2,2,5,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NjA1MzQ5,"New test for ""Return Largest Numbers in Arrays"" - checking for negative only numbers",MERGED,1h41m,2,2990,1,2,1,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NzM3NTc2,Current Streak update so specific times aren't missed,CLOSED,2297h11m,3,1021,2,7,7,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NzUwOTcx,Reformatted instructions for the class ES6 challenges,MERGED,84h07m,3,2510,1,15,39,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NzUyNjM0,Add tests for remove from set,MERGED,18h41m,1,2615,1,4,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3NzY4OTMx,Reformat ES6 challenges instructions,MERGED,18h03m,1,2532,1,37,51,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3Nzg4MDYz,Update loopback to version 3.4.0 🚀,CLOSED,3h32m,1,5469,1,1,1,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3ODM3MzAz,Fix 'Creating and Adding to Sets in ES6' challenge,MERGED,19h21m,3,2393,1,20,17,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3ODY4MjA4,Add note and edit link in challenge description,MERGED,0h38m,1,2149,1,3,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3ODc2OTky,Relax strictness of Quoting Strings with Single Quotes,MERGED,15h59m,3,2267,1,2,2,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3ODc5NDM1,Remove description in challenge seed,MERGED,3h29m,1,2150,1,3,6,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTMxMzIx,"fix(challenge): More robust test for ""Learn how a Stack Works"".",MERGED,297h05m,3,2194,1,2,1,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTQzOTAx,Fixed and Modified Test in Trigger Click Events with JavaScript,MERGED,6h55m,1,2402,1,2,2,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTQ5MDky,Change string to number in add items to array,MERGED,3h49m,1,2211,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTQ5NzIy,Change challengeSeed in accessing nested objects,MERGED,58h52m,3,2662,1,1,3,4,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTU4MzM2,Updated Validation of Inline-Style,CLOSED,73h51m,7,2236,1,1,1,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTYyMjI4,Fix minor syntax errors in seed code under 'Coding Interview Data Structure Questions',MERGED,0h41m,1,2691,1,35,35,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTY0NDAw,Add Youtube videos to the map,MERGED,1615h41m,3,2147,23,711,14,6,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTg0NzIz,Add type checking in Where Do I Belong,MERGED,271h45m,1,3179,1,10,2,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA3OTkwMTgw,Filtered out text-decoration and added more descriptions,MERGED,18h16m,1,2294,1,5,4,2,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MDI1NTI4,Clarify concatenating strings with +=,MERGED,313h50m,10,2320,1,1,1,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MDU1NDI3,Fix Empty editor and empty device preview,MERGED,84h14m,2,2086,4,10,53,3,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MTEwNDM0,Changed the reference to the path in guplfile.js to allow spaces,MERGED,2h46m,1,2402,1,1,1,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MTE3MDky,Created distinction between last two tests and tweaked assertion test,MERGED,3h02m,1,2269,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MTk0NTkw,Refactor ES6 challenge descriptions and titles,MERGED,537h30m,6,2191,1,53,75,5,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MjAwMTQ1,Fix for failing test on width css property,MERGED,38h07m,1,2650,1,1,1,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MjEwNTM5,Fixed A Minor Formatting Issue in the React Challenges.,MERGED,0h29m,1,2313,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MjI0MzYy,Updated broken Codepen Signup link,MERGED,0h08m,1,1026,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MjM3MzEz,Updated URLs for example codepens - interview prep / takehomes,MERGED,78h53m,1,3447,1,9,9,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MjU3OTU3,Remove bower mentions from docs and .gitignore,MERGED,0h13m,1,1263,2,0,4,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MzgyMjQ2,update codepen signup link,CLOSED,19h05m,1,2090,1,3,3,4,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4MzkzMTU2,Set default icon color to darkgreen,MERGED,15h13m,1,2140,1,1,1,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4NDQ5NjU0,fix(.github): update to ISSUE_TEMPLATE.md,MERGED,8h21m,1,2435,1,3,0,4,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4NTMwNTg3,update codepen signup link,MERGED,0h55m,1,2046,1,3,3,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4NTk5ODQ4,fix: Update config to be flexible for host,MERGED,1131h10m,7,608,4,12,4,5,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4NzY4OTIw,Added text-decoration challenge,CLOSED,1253h16m,3,2499,1,30,0,6,10,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4ODc4NDU2,Fixed display of various characters not showing up correctly in test console,MERGED,341h34m,1,2755,1,2,2,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4ODkwMDQ1,Improve instructions in responsive design with bootstrap,MERGED,46h30m,3,2833,1,3,4,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4OTExMTY5,Edited description and test,MERGED,189h39m,1,2233,1,5,4,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4OTY1Nzky,"Fix missing backtick in the description, move sample code in a blockq…",CLOSED,1246h03m,5,2184,1,6,13,6,16,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA4OTk0OTIw,add missing the letter i,MERGED,0h25m,1,2133,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MDA2MDQw,"Fix: Clarify title for ""Basic Data Structures: Copy an Array with slice()""",MERGED,445h36m,4,2270,1,1,1,6,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MDE4MzEz,Changed icon color to improve general UX,MERGED,28h55m,9,2450,2,6,2,6,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MTI5MTA1,Updated backend projects to use correct layout/tester,MERGED,2445h48m,6,1883,2,11,21,6,13,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MTQ4NzMy,Review/editing pass on the pt-br text of the getting-started section,MERGED,104h28m,3,2537,1,44,44,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MTcwODQ2,Insert missing space in challenge code,MERGED,54h25m,1,2293,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MTc1Mzg0,Fix (Basic HTML and HTML 5): description edits,MERGED,1244h56m,8,3663,1,3,3,6,16,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5MjQzOTgz,Clarify instructions in Say Hello to HTML challenge,MERGED,81h51m,7,2394,1,1,1,5,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5NTU0MTc4,Fix typo in basic-css-hex-code-colors. Add article -the- to description.,MERGED,22h02m,4,2383,1,1,1,7,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5Nzg0OTQ3,Insert a missing information needed to pass all tests on Radio Buttons Challenge,MERGED,90h33m,7,2053,1,1,1,4,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5OTIwNzE0,Convert lookup table to object,MERGED,2h26m,1,2176,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTA5OTQ5NTcy,Update modals.less,CLOSED,543h50m,1,2197,1,1,0,6,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEwMDc3NTQz,"Fix poor wording for first test check of ""Target Even Numbered Elements using jQuery""",MERGED,15h11m,1,2271,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEwMjU2Nzc2,Correct capitalisation of Wikipedia,MERGED,5h51m,1,2164,1,4,4,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEwMzE1NTQ2,Minor text fixes in Applied Visual Design challenges,MERGED,32h28m,1,2231,1,74,77,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEwNDM4OTgz,updated the 'getting started' instruction about adding Bootstrap v3.3.7 instead of v.4 on Codepen,MERGED,987h54m,1,3020,1,2,2,5,6,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEwOTg3NDg2,removed flex-basis from flex-grow challenge,MERGED,40h12m,1,2752,1,11,11,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTExMTgzNTI4,Combine Google Font challenges into one,MERGED,28h04m,5,2264,2,7,85,5,7,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTExNDA4MDgy,Tweaked title and description of JSON APIs and AJAX challenge,MERGED,188h33m,7,2572,1,4,6,5,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTExNDM5MTM3,Added challenge for Attribute Selector,MERGED,969h26m,1,2502,1,87,0,6,11,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTExNTA3Njg4,correct grammar in description for PrioriyQueue challenge,MERGED,31h28m,1,2227,1,1,1,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTExNTI4NTcx,Update codemirror to version 5.25.0 🚀,CLOSED,3974h06m,1,5616,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEyMTc5ODY5,Improve Node challenges wording and formatting,MERGED,179h16m,3,2437,2,33,33,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEyNjcwNzAy,Allow spaces in @mixins challenge,MERGED,682h31m,2,2361,1,2,2,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEyNjg5ODAx,replace it's with its in descriptions,MERGED,559h54m,13,2224,5,17,17,6,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEyNzI2Mzcz,allow spaces between style attribute and its value,MERGED,202h03m,2,2559,1,1,1,4,12,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEyODUxOTYx,Add .com to code example,MERGED,32h37m,1,2152,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzMjExODEy,Update redux-form to version 6.6.1 🚀,CLOSED,150h52m,1,8700,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzNDg4Mzk1,Refactor hover state of a button for readability,MERGED,598h02m,1,2340,1,5,3,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzNTU1NDY5,Change stack top element in instructions,MERGED,400h00m,1,2191,1,1,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzNTYwNDE3,Add description about front() in Priority Queue,MERGED,129h51m,1,2162,1,1,1,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzNzkyMTAw,Add tests for mutate const array,MERGED,357h06m,1,2510,1,2,2,5,9,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzODIyOTI2,Improve wording on jQuery selectors challenge,CLOSED,3657h28m,5,2224,1,2,2,5,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTEzODI1NjMw,Warn against redefining global variables  in the code editor,CLOSED,3658h30m,3,2248,1,5,2,5,5,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE0MTcyMTk2,Add units to map the debris challenge,MERGED,7h09m,1,2532,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE0Njc3MTM5,Update challengeSeed in arguments wrong order,MERGED,162h08m,1,2199,1,5,10,4,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE0Njc5OTcx,CSS color - delete redundant challenge,MERGED,22h45m,1,2286,1,2,28,4,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE1ODYzNTg1,Edit test to ensure opacity at 50% in keyframes,MERGED,2473h52m,1,2752,1,1,1,6,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2MDAyMzUw,Update adjust-height and delete visual-balance-with-height,MERGED,233h03m,1,2171,1,2,61,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2MDQ2MjM0,Add a sentence stating not to sign in with Twitter on 5/9,MERGED,15h16m,2,1280,1,6,6,5,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2MDk0NzAz,fix: #14402; add test for radio button in form tag,MERGED,12h31m,1,2268,1,2,1,4,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2NDQ3MzQ0,fix(csp): ws connection during dev uses SYNC_PORT only,MERGED,58h28m,1,0,1,1,1,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2NzM1MDU4,Updated test for the Basic JavaScript: Local Scope and Functions chal…,CLOSED,3231h01m,2,2353,1,1,1,3,0,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE2ODI4NzYy,Add test to prevent assignment to variable directly,MERGED,1281h06m,1,2652,1,1,0,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3MDA5NTI1,"change ""element's average"" to ""elements' average""",MERGED,73h24m,1,2315,1,1,1,3,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3MTM4NzYx,change challenge description and update tests,MERGED,1565h23m,1,2752,1,7,7,3,2,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3MzM2MTkw,replace a test with correct code and …,MERGED,1529h22m,2,2823,1,2,2,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3NTc2Njgw,Brazilian Portuguese translation of Basic Algorithm Scripting,MERGED,34h39m,2,2171,1,85,64,5,8,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3ODEzOTM4,Feature/add project euler problems,MERGED,166h24m,1,956,1,20462,97,5,4,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE3ODMzMDc1,fix(challenges): Fix classic modal styling not rendering,MERGED,532h58m,4,100,3,36,35,3,3,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE4MDc0NDc3,Removed jsonlint-cli and gulp-jsonlint. Replaced with eslint-plugin-json,CLOSED,421h49m,7,2541,4,8,14,2,1,,,,,,,,,,,
+freeCodeCamp/freeCodeCamp,MDExOlB1bGxSZXF1ZXN0MTE4MDc4NTQw,Changed 'Define' to 'Declare' in code comment on Declare JavaScript Variables,MERGED,2h16m,1,2353,1,1,1,3,0,,,,,,,,,,,
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0NzkzNTg0,"Add the legal provisions, 😀",MERGED,1h43m,1,0,1,13,4,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODAyNzUz,en_US,CLOSED,19h46m,2,26,1,16,0,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODA5MjU3,添加了国际五一劳动节的历史渊源，以及国际歌歌词,CLOSED,8h11m,1,30,1,78,0,6,4
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODM0Mjky,Create 加班公司名单,CLOSED,17h45m,1,0,1,1,0,8,6
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODQzNDc4,blacklist and template,CLOSED,17h01m,2,53,1,15,0,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU3MjU4,当前已知的公司名单,CLOSED,16h23m,2,0,1,4,0,11,7
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU5NTc2,fix grammar error,MERGED,2h11m,1,24,1,1,1,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODY5MzAx,fix grammer issue in English version,CLOSED,3h39m,1,24,1,1,1,2,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODc3NTc2,translate “工作 996，生病 ICU” to english version.,MERGED,15h36m,7,102,1,3,0,31,27
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTM5MTg0,grammar check for english,MERGED,0h20m,1,0,1,5,5,2,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTcyNzYy,曝光996公司及部门，欢迎曝光和投票,MERGED,16h51m,1,431,1,5,0,106,114
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MDUwNDI4,fix english translation,MERGED,6h16m,2,30,1,8,7,3,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MTczNDMw,fix en_US.md,CLOSED,4h14m,1,56,1,9,9,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgwMjI4MTI=,Update 1,CLOSED,0h00m,3,22,1,661,661,2,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgyMzMwNTY=,Fixed typo,MERGED,6h32m,1,0,1,1,1,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgyODkzNDU=,License.md Added,CLOSED,5h31m,1,0,1,21,0,3,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgzMjUxNjI=,Adding more descriptive links.,MERGED,2h00m,1,122,1,87,102,3,5
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgzNzI4Nzk=,Finishing Readability Improvement.,MERGED,0h29m,2,62,1,325,376,2,2
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODg1NjQ3ODc=,Pull request with fixed mis-formatted & Go resources,MERGED,1h55m,1,45,2,10,1,3,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODg1ODg0MzM=,32 bit floating point,CLOSED,0h34m,4,188,1,1,1,2,3
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODk0OTc2OTk=,Add a tutorial on Udemy.,MERGED,10h08m,2,159,1,3,0,2,2
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTUwODExODY=,Update README.md,MERGED,0h13m,2,41,1,13,14,2,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTg4MDc3OTY=,[Don't Merge yet] Spanish Translation in progress,MERGED,3813h48m,12,753,2,1923,2020,8,11
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkwNTE5Mjk=,Initial Draft of Hindi Translation,MERGED,86h10m,2,59,2,1678,1,3,4
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkyMTI5OTQ=,WIP: Initialization of Russian translation. Issue #87.,MERGED,34474h05m,3,0,1,2001,0,12,9
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkzNTY2MDU=,Hindi translation in progress,MERGED,18h59m,1,25,1,15,15,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTk4MDUzMjI=,typo_fix_hn_trans,CLOSED,40105h12m,3,88,1,37,38,6,9
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0MTAwNDEwMzI5,started,CLOSED,37h16m,1,0,1,3,239,3,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0NzkzNTg0,"Add the legal provisions, 😀",MERGED,1h43m,1,0,1,13,4,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODAyNzUz,en_US,CLOSED,19h46m,2,26,1,16,0,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODA5MjU3,添加了国际五一劳动节的历史渊源，以及国际歌歌词,CLOSED,8h11m,1,30,1,78,0,6,4
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODM0Mjky,Create 加班公司名单,CLOSED,17h45m,1,0,1,1,0,8,6
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODQzNDc4,blacklist and template,CLOSED,17h01m,2,53,1,15,0,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU3MjU4,当前已知的公司名单,CLOSED,16h23m,2,0,1,4,0,11,7
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU5NTc2,fix grammar error,MERGED,2h11m,1,24,1,1,1,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODY5MzAx,fix grammer issue in English version,CLOSED,3h39m,1,24,1,1,1,2,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODc3NTc2,translate “工作 996，生病 ICU” to english version.,MERGED,15h36m,7,102,1,3,0,31,27
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTM5MTg0,grammar check for english,MERGED,0h20m,1,0,1,5,5,2,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTcyNzYy,曝光996公司及部门，欢迎曝光和投票,MERGED,16h51m,1,431,1,5,0,106,114
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MDUwNDI4,fix english translation,MERGED,6h16m,2,30,1,8,7,3,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MTczNDMw,fix en_US.md,CLOSED,4h14m,1,56,1,9,9,3,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTExNDUwMDcy,Fix some issues,CLOSED,87h41m,1,174,2,2,2,4,2
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTYyMjc3MjEz,"Added a list of Linux & Unix server distributions, and Emacs as text editor",MERGED,1134h47m,1,362,2,2,4,5,5
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTY2MTEzODI1,fixes #369,CLOSED,118h55m,1,0,1,3487,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTY4OTc2NDMy,Added Cypress,CLOSED,16704h09m,1,0,2,2,2,3,1
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTcxMzg0Mjcz,Update README.md,MERGED,0h01m,1,0,1,2,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjIxOTg1MTI5,Emoji for both genders,MERGED,18h38m,1,54,1,1,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjIyNjc4NzI3,him -> them,CLOSED,10737h21m,1,44,1,1,1,3,1
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjM0Nzg2Njkx,"fix the cut off names teamcity, LXC, and puppet",MERGED,2576h57m,1,67,2,5460,5460,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODg2MzUw,Fix typo in Study Guide section,MERGED,13h45m,1,85,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5OTIzMDg2,Fix typo - lobsided -> lopsided,MERGED,10h16m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDU5NTM1,Add Dyn DDoS attack link,MERGED,21h36m,1,11,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDc3NzI0,Fix multiple typos,MERGED,18h12m,1,0,1,8,8,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMjY1MjYz,Fix typo in RPC section,MERGED,0h12m,1,74,1,1,1,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMTgxNzI2,Fix #6: Migrate links from exercises/solutions to use internal links,MERGED,68h33m,1,231,8,35,35,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMzk2MjQy,"Delete duplicate word ""does"" in design exercises",MERGED,11h19m,1,0,3,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDE2NTE1,Fix typo JSS -> JS,MERGED,26h38m,1,42,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDcyNTU4,Declare variable key in the get_user example,MERGED,36h45m,1,265,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMDU3MDkx,Fix typo,MERGED,10h08m,2,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMzUyMzc0,Fix typos,MERGED,4h11m,1,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNDM3NTE5,change the service discovery documenation example to use consul/etcd,CLOSED,53h29m,2,90,1,4,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjA2Mjc5,Explain difference between PUT & PATCH,MERGED,83h29m,1,268,1,2,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjM0ODE3,"Update service discovery section to include consul, etcd, and additional details",MERGED,42h47m,3,0,1,1,1,5,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0MDk0MzQ5,Change AP wording for clarity,MERGED,1h29m,1,296,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0OTE5NzMw,Change Pull CDN wording for clarity,MERGED,0h36m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDE3NzQz,zh-cn: Add Simplified Chinese translation v1.0,MERGED,5h48m,1,129,1,1797,0,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDQ3MDA2,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,MERGED,18h32m,1,97,1,0,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3MDg2NjQy,Fix asynchronism link in mint README,MERGED,580h03m,2,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE4NjI4MjYz,Fix lowercase typo in Layer 7 load balancing title,MERGED,320h48m,1,74,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE5NjYwMzA0,Fix typo,MERGED,419h01m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIxMjI5NTAy,Add license disclaimer,CLOSED,207h52m,1,162,2,10,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyMzU2OTcy,Fix #79: Inaccuracy in Twitter timeline and search example,MERGED,46h44m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyOTIzNjEy,Init spot_size member in parking lot exercise,MERGED,8h07m,1,36,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI0MjE3NjEz,Fix reducer argument in pastebin exercise,MERGED,177h23m,1,344,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5NjE1Nzcy,Add Grab Engineering Blog link,CLOSED,186h47m,1,244,2,2,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5ODE2NTgx,Add automated testing,CLOSED,11393h57m,2,375,1,11,0,4,12
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwODYzODg1,Fix typo in denormalization section,MERGED,12h04m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwOTkwMTA2,Mention policy for adding new blogs to Company engineering blogs section,MERGED,0h03m,1,26,1,2,0,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTM1NzQ3Mjcw,Convert all .py files to be valid Python,MERGED,4889h18m,3,253,7,78,39,2,8
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQzODEzODU2,Add API rate limiter design link,MERGED,234h42m,1,0,1,1,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ0MTAyODE0,Fix typo: considering -> consider in scaling AWS solution,MERGED,133h23m,1,98,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ3OTYwMDQ5,Simplify logic for is_ace and is_face_card in deck of cards solution,MERGED,77h09m,1,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ5MDk5NzI5,Add Japanese Translation,MERGED,860h35m,6,47,1,1787,0,5,9
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTUzNTI3MTAy,Correct Redis list structure in Twitter solution,MERGED,240h00m,1,281,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTU2NzUyNDYx,ja: Fix typo ,MERGED,34h15m,1,857,1,1,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYwNzE1MTQ1,add Netflix in Company Architecture,CLOSED,460h50m,1,0,1,4,3,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5Mjgx,Add Netflix in Company Architectures,MERGED,363h55m,2,0,1,1,0,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDIw,Add Scaling Uber in Company Architecture,MERGED,658h04m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDk4,"Add article link: How Twitter Handles 3,000 Images/sec",MERGED,11003h39m,3,0,1,1,1,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NTk2,Add Facebook Live Streams,MERGED,972h27m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY1NDU3ODY5,Update master-slave section anchor,MERGED,292h05m,1,90,4,4,4,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY5MDIxMzc2,Add Traditional Chinese translation,MERGED,333h50m,8,294,2,1787,1,4,23
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcxMjI4NzIy,Update re:Invent url to 2017 version,MERGED,37h36m,1,165,3,18,18,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyNTQzNDk2,zh-TW: Add proper line break to links,MERGED,50h55m,1,126,1,16,16,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyODA1Nzgy,zh-Hans: Fix typos,MERGED,64h44m,1,0,1,7,7,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzU3MDQ2,Add missing self variables to Deck of Cards solution,MERGED,271h49m,1,25,1,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTQ4NzUw,Change LARGE to VehicleSize.LARGE in parking lot solution,MERGED,717h48m,2,70,1,2,2,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTU4MTE4,Add deque import to Social Graph solution,MERGED,352h23m,1,91,1,2,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0OTM1NjA1,Fix coding errors,MERGED,1021h07m,1,415,3,5,5,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4OTUyODA5,Fix dict KeyError,MERGED,554h29m,2,60,1,2,2,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NDIxNTM4,readme: Add my tutorial on shell,MERGED,21h46m,3,200,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjEwODYw,Add: Generate SVG images in C,CLOSED,26h32m,1,0,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjYyMDM1,Nanocoin cryptocurrency written in Haskell,MERGED,0h39m,4,424,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjczNjcx,"Add ""Build your own Window Manager""",MERGED,16h07m,1,0,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3ODQ4ODU5,added 'Build your own CI server' title & one item,MERGED,22h57m,3,81,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3ODk4MTA1,Update README.md,MERGED,1h24m,2,26,1,2,1,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTkwMTc2MTk2,Added a New Category : Text Editor,MERGED,3h31m,1,137,1,9,1,3,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTk2OTQwMzcw,"Found a Web site hosting these tutorials, want to add a link",CLOSED,121h23m,1,393,1,2,0,3,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MzI1MDQxOTg0,Add 'Twitter Bot Tutorial-Node.js and Processing',CLOSED,9364h19m,1,0,1,1,0,3,1
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkwMjUyNzM0,Add N queens problem bitwise solution,MERGED,2113h43m,1,0,3,68,0,5,5
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkwOTc5ODcy,Radix sort,MERGED,11h08m,1,130,5,150,0,3,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkzNzY1NzMy,Fix typos,MERGED,78h20m,2,33,8,19,19,4,1
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk0NzA0MTg1,added Bidirectional Conditional Insertion Sort,CLOSED,19h22m,2,1151,5,1605,1386,2,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk4NTIzMTg3,Fix the insertion sort,MERGED,43h59m,1,104,1,1,1,6,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk4OTg2MTky,Complex Number and Vector Class added,CLOSED,499h28m,2,0,8,910,137,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAyOTc4MzA2,Fix knuthMorrisPratt for empty word request,MERGED,81h42m,5,536,2,6,2,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAzNjI0MzIy,Refactor Rabin-Karp,MERGED,134h17m,1,122,4,139,88,4,17
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAzOTQxMjQ3,Refactored disjoint set data structure,CLOSED,18h56m,11,110,7,82,449,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjA0Nzk4Mzgz,New function 'fromArray',CLOSED,168h11m,5,67,1,7,0,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjA1OTE0MTAz,fibonacci logn iterative implementation,CLOSED,2106h57m,3,222,3,58,4,4,1
+twbs/bootstrap,MDExOlB1bGxSZXF1ZXN0MjgxNTAx,Give docs page some ellipsis and apostrophe love,MERGED,1h01m,3,150,1,29,29,4,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0Nzg4ODcxODM=,Minor improvement,MERGED,0h09m,1,0,1,4,3,3,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTAyNDE0NjAw,Create randomnormalquicksort.py,CLOSED,344h59m,5,325,1,67,0,2,3
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTEzNzgzODM1,Code for Heap data structure,MERGED,87h00m,1,82,1,83,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE0MzAxMjEz,"More concise, optimized and readable code in sorts/quick_sort.py file",MERGED,30h09m,2,0,1,11,30,5,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE0NzMyMTgy,Script Output: The entire longest increasing subsequence instead of it's length,MERGED,84h37m,3,166,1,41,12,3,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE1NDI2NzE2,"Fixing some terms number issue, and improving result for first terms (0 and 1)",MERGED,31h42m,4,0,1,9,10,3,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTMzMTAzMTgx,Added one of the most important machine learning algorithm,MERGED,228h47m,1,124,1,141,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM0NjAzNTE4,Corrected Markdown,MERGED,130h41m,1,17,1,1,1,2,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM1MTM3NTg1,Correct markdown (ShellSort),MERGED,76h50m,1,0,1,1,1,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM2NTkwMzM0,Playfair cipher,MERGED,364h46m,1,120,1,102,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM3ODMwMjUw,Neural Network - Perceptron,MERGED,195h49m,1,32,4,165,7,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM4MTkzMzc0,Maximum_subaray_problem,MERGED,282h01m,1,0,2,100,11,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM4MjMxMTc5,Perceptron - one neuron,MERGED,110h50m,1,0,1,123,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM5MDU0MzE2,Added front to indicate the starting of the Queue,MERGED,40h39m,3,177,1,4,2,4,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM5NjUzODMx,Create singly_LinkedList.py,MERGED,70h51m,1,15,1,61,0,3,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwMTk4MzY1,Trie implementation,MERGED,10h53m,6,71,1,75,0,4,2
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwMjk2MTg1,Corrected the Breadth First Search Implementation,CLOSED,773h29m,1,178,1,14,41,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwNDYxMzcy,heap_sort.py,CLOSED,2957h12m,2,138,1,103,49,4,0
+jackfrued/Python-100-Days,MDExOlB1bGxSZXF1ZXN0MTkyMzgxODY3,Update PEP 8风格指南.md,CLOSED,506h48m,1,0,1,1,1,3,3
+jackfrued/Python-100-Days,MDExOlB1bGxSZXF1ZXN0MjczMDgyODc0,修正IndentationError,CLOSED,218h10m,1,0,1,3,3,4,2
+airbnb/javascript,MDExOlB1bGxSZXF1ZXN0MzA1MTIzNA==,Arrays example is very confusing,MERGED,78h20m,1,45,1,33,5,3,1
+Snailclimb/JavaGuide,MDExOlB1bGxSZXF1ZXN0MjM2NzkzNDk0,Update README.md,MERGED,3h41m,1,11,1,1,1,2,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0NzkzNTg0,"Add the legal provisions, 😀",MERGED,1h43m,1,0,1,13,4,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODAyNzUz,en_US,CLOSED,19h46m,2,26,1,16,0,4,2
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODA5MjU3,添加了国际五一劳动节的历史渊源，以及国际歌歌词,CLOSED,8h11m,1,30,1,78,0,6,4
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODM0Mjky,Create 加班公司名单,CLOSED,17h45m,1,0,1,1,0,8,6
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODQzNDc4,blacklist and template,CLOSED,17h01m,2,53,1,15,0,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU3MjU4,当前已知的公司名单,CLOSED,16h23m,2,0,1,4,0,11,7
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODU5NTc2,fix grammar error,MERGED,2h11m,1,24,1,1,1,3,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODY5MzAx,fix grammer issue in English version,CLOSED,3h39m,1,24,1,1,1,2,0
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0ODc3NTc2,translate “工作 996，生病 ICU” to english version.,MERGED,15h36m,7,102,1,3,0,31,27
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTM5MTg0,grammar check for english,MERGED,0h20m,1,0,1,5,5,2,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY0OTcyNzYy,曝光996公司及部门，欢迎曝光和投票,MERGED,16h51m,1,431,1,5,0,106,114
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MDUwNDI4,fix english translation,MERGED,6h16m,2,30,1,8,7,3,1
+996icu/996.ICU,MDExOlB1bGxSZXF1ZXN0MjY1MTczNDMw,fix en_US.md,CLOSED,4h14m,1,56,1,9,9,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgwMjI4MTI=,Update 1,CLOSED,0h00m,3,22,1,661,661,2,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgyMzMwNTY=,Fixed typo,MERGED,6h32m,1,0,1,1,1,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgyODkzNDU=,License.md Added,CLOSED,5h31m,1,0,1,21,0,3,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgzMjUxNjI=,Adding more descriptive links.,MERGED,2h00m,1,122,1,87,102,3,5
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODgzNzI4Nzk=,Finishing Readability Improvement.,MERGED,0h29m,2,62,1,325,376,2,2
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODg1NjQ3ODc=,Pull request with fixed mis-formatted & Go resources,MERGED,1h55m,1,45,2,10,1,3,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODg1ODg0MzM=,32 bit floating point,CLOSED,0h34m,4,188,1,1,1,2,3
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0ODk0OTc2OTk=,Add a tutorial on Udemy.,MERGED,10h08m,2,159,1,3,0,2,2
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTUwODExODY=,Update README.md,MERGED,0h13m,2,41,1,13,14,2,1
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTg4MDc3OTY=,[Don't Merge yet] Spanish Translation in progress,MERGED,3813h48m,12,753,2,1923,2020,8,11
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkwNTE5Mjk=,Initial Draft of Hindi Translation,MERGED,86h10m,2,59,2,1678,1,3,4
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkyMTI5OTQ=,WIP: Initialization of Russian translation. Issue #87.,MERGED,34474h05m,3,0,1,2001,0,12,9
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTkzNTY2MDU=,Hindi translation in progress,MERGED,18h59m,1,25,1,15,15,3,0
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0OTk4MDUzMjI=,typo_fix_hn_trans,CLOSED,40105h12m,3,88,1,37,38,6,9
+jwasham/coding-interview-university,MDExOlB1bGxSZXF1ZXN0MTAwNDEwMzI5,started,CLOSED,37h16m,1,0,1,3,239,3,1
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTExNDUwMDcy,Fix some issues,CLOSED,87h41m,1,174,2,2,2,4,2
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTYyMjc3MjEz,"Added a list of Linux & Unix server distributions, and Emacs as text editor",MERGED,1134h47m,1,362,2,2,4,5,5
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTY2MTEzODI1,fixes #369,CLOSED,118h55m,1,0,1,3487,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTY4OTc2NDMy,Added Cypress,CLOSED,16704h09m,1,0,2,2,2,3,1
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MTcxMzg0Mjcz,Update README.md,MERGED,0h01m,1,0,1,2,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjIxOTg1MTI5,Emoji for both genders,MERGED,18h38m,1,54,1,1,1,2,0
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjIyNjc4NzI3,him -> them,CLOSED,10737h21m,1,44,1,1,1,3,1
+kamranahmedse/developer-roadmap,MDExOlB1bGxSZXF1ZXN0MjM0Nzg2Njkx,"fix the cut off names teamcity, LXC, and puppet",MERGED,2576h57m,1,67,2,5460,5460,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5ODg2MzUw,Fix typo in Study Guide section,MERGED,13h45m,1,85,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTA5OTIzMDg2,Fix typo - lobsided -> lopsided,MERGED,10h16m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDU5NTM1,Add Dyn DDoS attack link,MERGED,21h36m,1,11,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMDc3NzI0,Fix multiple typos,MERGED,18h12m,1,0,1,8,8,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEwMjY1MjYz,Fix typo in RPC section,MERGED,0h12m,1,74,1,1,1,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMTgxNzI2,Fix #6: Migrate links from exercises/solutions to use internal links,MERGED,68h33m,1,231,8,35,35,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExMzk2MjQy,"Delete duplicate word ""does"" in design exercises",MERGED,11h19m,1,0,3,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDE2NTE1,Fix typo JSS -> JS,MERGED,26h38m,1,42,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTExNDcyNTU4,Declare variable key in the get_user example,MERGED,36h45m,1,265,1,1,0,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMDU3MDkx,Fix typo,MERGED,10h08m,2,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyMzUyMzc0,Fix typos,MERGED,4h11m,1,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNDM3NTE5,change the service discovery documenation example to use consul/etcd,CLOSED,53h29m,2,90,1,4,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjA2Mjc5,Explain difference between PUT & PATCH,MERGED,83h29m,1,268,1,2,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTEyNjM0ODE3,"Update service discovery section to include consul, etcd, and additional details",MERGED,42h47m,3,0,1,1,1,5,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0MDk0MzQ5,Change AP wording for clarity,MERGED,1h29m,1,296,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE0OTE5NzMw,Change Pull CDN wording for clarity,MERGED,0h36m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDE3NzQz,zh-cn: Add Simplified Chinese translation v1.0,MERGED,5h48m,1,129,1,1797,0,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE2MDQ3MDA2,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,MERGED,18h32m,1,97,1,0,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE3MDg2NjQy,Fix asynchronism link in mint README,MERGED,580h03m,2,0,1,1,1,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE4NjI4MjYz,Fix lowercase typo in Layer 7 load balancing title,MERGED,320h48m,1,74,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTE5NjYwMzA0,Fix typo,MERGED,419h01m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIxMjI5NTAy,Add license disclaimer,CLOSED,207h52m,1,162,2,10,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyMzU2OTcy,Fix #79: Inaccuracy in Twitter timeline and search example,MERGED,46h44m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTIyOTIzNjEy,Init spot_size member in parking lot exercise,MERGED,8h07m,1,36,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI0MjE3NjEz,Fix reducer argument in pastebin exercise,MERGED,177h23m,1,344,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5NjE1Nzcy,Add Grab Engineering Blog link,CLOSED,186h47m,1,244,2,2,0,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTI5ODE2NTgx,Add automated testing,CLOSED,11393h57m,2,375,1,11,0,4,12
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwODYzODg1,Fix typo in denormalization section,MERGED,12h04m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTMwOTkwMTA2,Mention policy for adding new blogs to Company engineering blogs section,MERGED,0h03m,1,26,1,2,0,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTM1NzQ3Mjcw,Convert all .py files to be valid Python,MERGED,4889h18m,3,253,7,78,39,2,8
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQzODEzODU2,Add API rate limiter design link,MERGED,234h42m,1,0,1,1,0,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ0MTAyODE0,Fix typo: considering -> consider in scaling AWS solution,MERGED,133h23m,1,98,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ3OTYwMDQ5,Simplify logic for is_ace and is_face_card in deck of cards solution,MERGED,77h09m,1,0,1,2,2,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTQ5MDk5NzI5,Add Japanese Translation,MERGED,860h35m,6,47,1,1787,0,5,9
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTUzNTI3MTAy,Correct Redis list structure in Twitter solution,MERGED,240h00m,1,281,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTU2NzUyNDYx,ja: Fix typo ,MERGED,34h15m,1,857,1,1,1,3,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYwNzE1MTQ1,add Netflix in Company Architecture,CLOSED,460h50m,1,0,1,4,3,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5Mjgx,Add Netflix in Company Architectures,MERGED,363h55m,2,0,1,1,0,3,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDIw,Add Scaling Uber in Company Architecture,MERGED,658h04m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NDk4,"Add article link: How Twitter Handles 3,000 Images/sec",MERGED,11003h39m,3,0,1,1,1,2,3
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTYxNDc5NTk2,Add Facebook Live Streams,MERGED,972h27m,1,0,1,1,1,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY1NDU3ODY5,Update master-slave section anchor,MERGED,292h05m,1,90,4,4,4,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTY5MDIxMzc2,Add Traditional Chinese translation,MERGED,333h50m,8,294,2,1787,1,4,23
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcxMjI4NzIy,Update re:Invent url to 2017 version,MERGED,37h36m,1,165,3,18,18,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyNTQzNDk2,zh-TW: Add proper line break to links,MERGED,50h55m,1,126,1,16,16,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTcyODA1Nzgy,zh-Hans: Fix typos,MERGED,64h44m,1,0,1,7,7,3,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTczMzU3MDQ2,Add missing self variables to Deck of Cards solution,MERGED,271h49m,1,25,1,3,3,2,1
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTQ4NzUw,Change LARGE to VehicleSize.LARGE in parking lot solution,MERGED,717h48m,2,70,1,2,2,2,4
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0MTU4MTE4,Add deque import to Social Graph solution,MERGED,352h23m,1,91,1,2,0,2,0
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc0OTM1NjA1,Fix coding errors,MERGED,1021h07m,1,415,3,5,5,2,2
+donnemartin/system-design-primer,MDExOlB1bGxSZXF1ZXN0MTc4OTUyODA5,Fix dict KeyError,MERGED,554h29m,2,60,1,2,2,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NDIxNTM4,readme: Add my tutorial on shell,MERGED,21h46m,3,200,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjEwODYw,Add: Generate SVG images in C,CLOSED,26h32m,1,0,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjYyMDM1,Nanocoin cryptocurrency written in Haskell,MERGED,0h39m,4,424,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3NjczNjcx,"Add ""Build your own Window Manager""",MERGED,16h07m,1,0,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3ODQ4ODU5,added 'Build your own CI server' title & one item,MERGED,22h57m,3,81,1,1,0,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTg3ODk4MTA1,Update README.md,MERGED,1h24m,2,26,1,2,1,2,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTkwMTc2MTk2,Added a New Category : Text Editor,MERGED,3h31m,1,137,1,9,1,3,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MTk2OTQwMzcw,"Found a Web site hosting these tutorials, want to add a link",CLOSED,121h23m,1,393,1,2,0,3,1
+codecrafters-io/build-your-own-x,MDExOlB1bGxSZXF1ZXN0MzI1MDQxOTg0,Add 'Twitter Bot Tutorial-Node.js and Processing',CLOSED,9364h19m,1,0,1,1,0,3,1
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkwMjUyNzM0,Add N queens problem bitwise solution,MERGED,2113h43m,1,0,3,68,0,5,5
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkwOTc5ODcy,Radix sort,MERGED,11h08m,1,130,5,150,0,3,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTkzNzY1NzMy,Fix typos,MERGED,78h20m,2,33,8,19,19,4,1
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk0NzA0MTg1,added Bidirectional Conditional Insertion Sort,CLOSED,19h22m,2,1151,5,1605,1386,2,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk4NTIzMTg3,Fix the insertion sort,MERGED,43h59m,1,104,1,1,1,6,2
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MTk4OTg2MTky,Complex Number and Vector Class added,CLOSED,499h28m,2,0,8,910,137,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAyOTc4MzA2,Fix knuthMorrisPratt for empty word request,MERGED,81h42m,5,536,2,6,2,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAzNjI0MzIy,Refactor Rabin-Karp,MERGED,134h17m,1,122,4,139,88,4,17
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjAzOTQxMjQ3,Refactored disjoint set data structure,CLOSED,18h56m,11,110,7,82,449,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjA0Nzk4Mzgz,New function 'fromArray',CLOSED,168h11m,5,67,1,7,0,3,3
+trekhleb/javascript-algorithms,MDExOlB1bGxSZXF1ZXN0MjA1OTE0MTAz,fibonacci logn iterative implementation,CLOSED,2106h57m,3,222,3,58,4,4,1
+twbs/bootstrap,MDExOlB1bGxSZXF1ZXN0MjgxNTAx,Give docs page some ellipsis and apostrophe love,MERGED,1h01m,3,150,1,29,29,4,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0Nzg4ODcxODM=,Minor improvement,MERGED,0h09m,1,0,1,4,3,3,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTAyNDE0NjAw,Create randomnormalquicksort.py,CLOSED,344h59m,5,325,1,67,0,2,3
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTEzNzgzODM1,Code for Heap data structure,MERGED,87h00m,1,82,1,83,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE0MzAxMjEz,"More concise, optimized and readable code in sorts/quick_sort.py file",MERGED,30h09m,2,0,1,11,30,5,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE0NzMyMTgy,Script Output: The entire longest increasing subsequence instead of it's length,MERGED,84h37m,3,166,1,41,12,3,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTE1NDI2NzE2,"Fixing some terms number issue, and improving result for first terms (0 and 1)",MERGED,31h42m,4,0,1,9,10,3,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTMzMTAzMTgx,Added one of the most important machine learning algorithm,MERGED,228h47m,1,124,1,141,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM0NjAzNTE4,Corrected Markdown,MERGED,130h41m,1,17,1,1,1,2,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM1MTM3NTg1,Correct markdown (ShellSort),MERGED,76h50m,1,0,1,1,1,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM2NTkwMzM0,Playfair cipher,MERGED,364h46m,1,120,1,102,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM3ODMwMjUw,Neural Network - Perceptron,MERGED,195h49m,1,32,4,165,7,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM4MTkzMzc0,Maximum_subaray_problem,MERGED,282h01m,1,0,2,100,11,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM4MjMxMTc5,Perceptron - one neuron,MERGED,110h50m,1,0,1,123,0,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM5MDU0MzE2,Added front to indicate the starting of the Queue,MERGED,40h39m,3,177,1,4,2,4,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTM5NjUzODMx,Create singly_LinkedList.py,MERGED,70h51m,1,15,1,61,0,3,1
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwMTk4MzY1,Trie implementation,MERGED,10h53m,6,71,1,75,0,4,2
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwMjk2MTg1,Corrected the Breadth First Search Implementation,CLOSED,773h29m,1,178,1,14,41,2,0
+TheAlgorithms/Python,MDExOlB1bGxSZXF1ZXN0MTQwNDYxMzcy,heap_sort.py,CLOSED,2957h12m,2,138,1,103,49,4,0
+jackfrued/Python-100-Days,MDExOlB1bGxSZXF1ZXN0MTkyMzgxODY3,Update PEP 8风格指南.md,CLOSED,506h48m,1,0,1,1,1,3,3
+jackfrued/Python-100-Days,MDExOlB1bGxSZXF1ZXN0MjczMDgyODc0,修正IndentationError,CLOSED,218h10m,1,0,1,3,3,4,2
+airbnb/javascript,MDExOlB1bGxSZXF1ZXN0MzA1MTIzNA==,Arrays example is very confusing,MERGED,78h20m,1,45,1,33,5,3,1
+Snailclimb/JavaGuide,MDExOlB1bGxSZXF1ZXN0MjM2NzkzNDk0,Update README.md,MERGED,3h41m,1,11,1,1,1,2,1
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgxODI1MjQw,English 翻译数据结构系列/单调队列.md,MERGED,27h04m,2,31,3,183,185,2,4
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgxOTgyOTUx,翻译了数据结构系列，二叉堆实现优先队列,MERGED,2h36m,3,124,2,213,216,2,1
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgxOTgzOTE2,update English version of Union-Find,MERGED,0h49m,1,128,2,305,294,2,0
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgxOTk1OTY3,The Longest Palindromic Substring.md English,MERGED,5h57m,1,92,4,119,104,2,4
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMDA3ODQw,translate the article UnionFind 算法应用,MERGED,4h39m,1,128,6,220,225,2,3
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMDA5NDg0,translate 数据结构系列/单调栈,MERGED,5h23m,1,20,2,122,119,2,0
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMDIzODU4,translate 高频面试系列/座位调度.md ,MERGED,25h07m,1,36,10,223,0,2,2
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMDMzMjc0,translate 动态规划系列/编辑距离.md,MERGED,1h33m,1,28,9,271,263,2,2
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMTEyNzE5,算法学习之路全文翻译,MERGED,4h54m,1,43,2,94,81,2,5
+labuladong/fucking-algorithm,MDExOlB1bGxSZXF1ZXN0MzgyMTg1Njc0,translate 算法思路系列/双指针技巧,MERGED,6h01m,1,29,2,199,199,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NjUwNDYy,Added capitalize first letter of every word,MERGED,18h11m,2,0,1,9,0,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NjUzNzEw,Remove stray open curly brace,MERGED,0h01m,1,88,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NjYyMTA1,simple ES6 unique array  values,CLOSED,4h09m,1,0,1,2,8,3,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzA5OTgx,Update unique-values-of-array.md,MERGED,8h08m,1,0,1,14,8,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzE1ODcy,Replace the usage of ìndexOf` for `includes`,MERGED,7h34m,1,0,1,5,4,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzE4MjA1,Update RGB to hexadecimal to new bitwise version,MERGED,16h57m,2,103,1,16,4,4,7
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzIyMTcz,Capitalize first letter: safe against empty string,MERGED,6h46m,1,104,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzQ4Njk5,Fixes a typo,MERGED,2h29m,1,0,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzUwNjk3,Add reverseString,MERGED,2h25m,1,0,1,9,1,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzUyMzI4,Directly return object from arrow function,MERGED,6h55m,6,89,2,4,6,3,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzY3NDE1,Fix syntax error,MERGED,0h02m,1,0,2,2,2,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzcwODYz,Fix typos,MERGED,0h07m,1,0,1,2,2,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3Nzc1NTk5,Count occurrences of value in array with reduce,MERGED,0h44m,1,70,1,6,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3Nzc2MzA2,Sort snippets with case-insensitivity,MERGED,0h02m,1,346,1,13,1,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3Nzc5NzAy,Faster even/odd check with bitwise operator,CLOSED,0h01m,2,120,1,1,2,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzgwMTU1,add another way to calculate factorial,MERGED,0h05m,1,284,1,7,1,3,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3Nzg1Mjc3,Change last-of-list function name,MERGED,0h03m,1,81,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3NzkyMTI3,Create Check_for_palindrome.md,MERGED,3h43m,3,0,1,8,0,2,4
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3Nzk3MDI0,"Correct a typo in ""slice"".",MERGED,0h00m,1,0,2,2,2,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODA4NzA2,Add getScrollPos of HTMLElement / window,MERGED,0h06m,1,249,2,29,0,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODE3Njk1,Anagrams recursion refactor (code legibility),CLOSED,3h42m,1,121,1,11,7,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODMyNDg3,Fix link in CONTRIBUTING.md,MERGED,0h02m,1,93,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODY2OTY4,refactor(anagrams): improve code legibility,MERGED,0h02m,2,240,2,10,11,3,4
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODY5MDkw,Added Pipe snippet,MERGED,0h09m,1,32,2,18,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODc1OTgy,Added async function chain,MERGED,17h42m,4,232,1,14,0,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODc4MTAy,Add chunk array,MERGED,17h27m,2,154,1,13,0,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODgwMDQ2,fix typo,MERGED,0h22m,1,0,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODgwMjkw,minor refactor to the fibonacci array generator,MERGED,0h35m,1,202,1,3,7,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3ODk2OTYz,get minimum value from an array,MERGED,1h02m,2,79,1,8,0,3,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTAzNTA2,Refactor measure-time-taken-by-function from spread syntax to callback function,MERGED,17h29m,1,408,1,3,3,3,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTE5MjY4,Added getType function,MERGED,13h56m,1,77,1,9,0,4,5
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTE5Nzc3,Collatz algorithm,CLOSED,41h14m,1,139,1,11,0,6,9
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTMxNjQw,"Make ""Anagrams of string"" fully functional",MERGED,14h05m,1,254,2,3,6,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTQzNTcz,fixing minor type bug in flatten function,MERGED,0h13m,1,46,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTUyMjUw,Fix deep flatten array implementation,MERGED,0h01m,1,0,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTU1ODM0,refactor curry to account for variadic functions,MERGED,13h07m,2,270,1,11,3,2,4
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTU5OTA5,Create random-integer-in-range.md,MERGED,0h01m,1,0,1,9,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU3OTYyODA3,Create median-of-array-of-numbers.md,MERGED,10h42m,1,0,1,17,0,2,6
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDA4NTQ2,Add bottomVisible,MERGED,6h25m,1,88,2,27,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDIyMTM3,Add value or default,MERGED,1h59m,1,99,1,8,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDI3OTEy,Fixed a typo in README.md,MERGED,1h15m,1,96,1,2,3,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDQzMzYx,use const in snippet template,MERGED,0h01m,1,0,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDQzNTU4,Check for array length in tail function to return the correct value f…,MERGED,0h00m,1,47,2,4,2,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDQ1MjM1,"Add ""Run promises in series""",MERGED,0h13m,1,53,2,21,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDUwNzQw,Fix filename typo,MERGED,0h04m,1,0,1,0,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDU2NjYw,Add promisify snippet,MERGED,1h42m,13,59,2,36,0,3,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDYwMzU3,Create percentile.md,MERGED,0h35m,1,130,1,10,0,2,6
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDczMTcw,Dashes not underscores,MERGED,0h04m,1,0,2,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDc1MTY1,Create standard-deviation.md,MERGED,21h27m,1,182,1,17,0,2,10
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDc4ODQz,hamming distance between two numbers,MERGED,0h04m,1,0,1,9,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MDgxNjM3,Correct array method names ,MERGED,0h15m,1,64,10,10,10,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MTAxOTE3,Get Ordinal Suffix of Number,MERGED,18h11m,2,252,1,15,0,3,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MTM2NzEx,Create join_array_like_objects.md,MERGED,18h35m,1,0,3,31,0,2,5
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MTgxMDkw,Simplify the Even or odd number snippet,MERGED,13h02m,1,143,2,6,6,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MTkxNDQ4,Use Array.from instead of slice to capitalize a string,CLOSED,12h24m,3,53,1,4,5,2,3
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MTk4OTI4,add sleep function - making delays in async functions,MERGED,11h51m,1,111,1,12,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjAwMDYw,group by,MERGED,11h56m,3,107,1,14,0,3,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjE1MDQ1,add pick code snippet,MERGED,1h39m,1,80,2,29,0,3,4
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjE1NzMx,Remove duplicate shuffle array snippets. Simplify implementation,MERGED,11h16m,1,0,0,0,0,2,6
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjE3OTY0,"Add ""Object to key-value pairs""",MERGED,1h37m,1,0,2,14,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjI0NjYy,Add set operations,MERGED,1h05m,1,207,5,54,18,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjI3OTAw,Refactor palindrome,MERGED,0h49m,1,27,2,8,4,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjM4NzMw,Fix names and links,MERGED,8h19m,1,133,3,5,5,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MjcwOTU3,Update URL Paramters snipper,MERGED,3h03m,1,99,1,1,1,2,1
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjc3MzUz,add compact.md & ran npm run build-list,MERGED,1h42m,1,319,2,18,1,3,4
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjg0OTU3,validateEmail,CLOSED,0h34m,1,92,1,11,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjg5ODMw,Fix: validateNumber: check cooercian,MERGED,0h24m,2,642,1,2,1,2,5
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjk0MzI1,update description of head & ran npm run build-list,MERGED,0h01m,1,42,2,3,3,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjk3Nzc4,ran npm run build-list & update intial-of-list description,MERGED,0h01m,1,58,2,3,3,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4Mjk4NDg5,update last-of-list & ran npm run build-list,MERGED,0h02m,1,54,2,3,3,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzA3OTY3,ran npm run build-list & add take.md,MERGED,0h17m,4,362,2,23,1,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzE1ODEw,array concat functionality added,MERGED,0h05m,1,58,1,8,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzIxNjk0,Create element-is-visible-in-viewport.md,MERGED,0h24m,1,110,1,19,0,2,2
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzM1NzYx,Fixed typo,MERGED,0h01m,1,35,1,1,1,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzM3Mjc3,Added American to English date,CLOSED,70h53m,3,0,2,21,6,4,7
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzQ2ODA0,Adding get-days-difference-between-dates,MERGED,5h46m,1,73,1,8,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzQ5MDYz,collatz algorithm -- changed in 'js',MERGED,0h01m,1,60,1,9,0,2,0
+30-seconds/30-seconds-of-code,MDExOlB1bGxSZXF1ZXN0MTU4MzU1NDYw,Create sqaure_it.md,MERGED,92h51m,1,126,1,14,0,4,15
+golang/go,MDExOlB1bGxSZXF1ZXN0MTY4MTE1NjYz,doc: remove Pull Request note in README.md,CLOSED,0h27m,1,81,1,3,4,7,11
+golang/go,MDExOlB1bGxSZXF1ZXN0MTY4NzUyMjU1,add function for bool in math/rand,CLOSED,32770h43m,2,59,1,5,0,6,23
+golang/go,MDExOlB1bGxSZXF1ZXN0MTY4Nzk2OTA3,runtime: fix typo in comment,CLOSED,5h27m,1,36,1,1,1,4,11
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk0OTkzNzI=,Open tab when running next dev,MERGED,32h44m,10,0,1,12,1,3,2
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MDA3MzA=,Added async props test,MERGED,10h43m,1,0,2,24,1,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MDgyNDA=,Implemented missing pieces for overriding 404 and 500 pages.,MERGED,0h27m,3,0,4,25,4,3,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MTU3MzQ=,Add some basic examples,MERGED,0h23m,1,39,7,128,0,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MTYwNDE=,Reverting default props for errors.,MERGED,17h48m,1,0,3,15,16,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MTY5MTg=,Added warning when pages dir is not present,MERGED,19h14m,1,148,1,11,2,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1MTc2MjA=,Added next init command for starting a new project,MERGED,17h20m,1,129,2,57,0,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1NDU0MDM=,Added linting using standard,MERGED,0h11m,1,17,25,64,64,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0ODk1ODEwMzc=,Load client js from cdn with fallback,MERGED,189h13m,2,54,1,27,1,2,1
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTAxMjIyNjI=,Added glamor css,MERGED,38h26m,2,31,16,87,109,2,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTA4ODY3NzU=,Use detect-port to check if 3000 is already used.,CLOSED,1254h59m,4,302,6,55,7,9,15
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTEwNDA0MTk=,Add license MIT,MERGED,66h29m,11,0,1,21,0,5,1
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTEwNTc3NDY=,Fix issue #85,MERGED,5h38m,1,532,1,3,0,3,1
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTEwNzQ4OTY=,README: improve getting started & contributing,CLOSED,1701h41m,3,232,1,56,38,5,9
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTEzMzcxMDY=,batch update head contents,MERGED,6h44m,1,142,3,15,24,1,0
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTEzNjQ5Mzk=,next init: Create supplied directory if it does not exist.,MERGED,142h43m,4,569,2,7,1,3,5
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTE0OTQ1NDA=,"Expose css, link, and head in package.",MERGED,0h28m,3,592,4,7,1,2,1
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTE1Mzc3MzQ=,JSX extension support,CLOSED,769h18m,1,113,4,19,7,6,10
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTE1NDEyMzI=,Add more Glamor help to README,MERGED,8h11m,1,318,1,7,2,2,1
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTE3NjIyNzU=,expose webpack config,CLOSED,221h02m,1,724,1,10,2,4,7
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTIwNTIwMDY=,Explain where & when getInitialProps executes,MERGED,38h52m,1,241,1,2,0,4,5
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTI1OTcwOTA=,Exploration of different config + expose webpack config,MERGED,963h44m,24,1144,4,107,26,12,56
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTI5MzU1MDQ=,webpack: load modules from NODE_PATH too,MERGED,114h30m,2,234,1,4,1,3,2
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTMwMjQ0OTI=,Instructions for images and static assets,MERGED,188h29m,8,73,1,4,0,5,3
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTM0OTgxMjI=,[WIP] Add an example with page loading indicator,CLOSED,985h01m,8,545,8,178,3,5,13
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTM3MjE0MjQ=,chore: add test coverage,MERGED,401h01m,2,1629,11,128,46,4,9
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTM4OTIyMDM=,Adds friendly error plugin,MERGED,382h33m,5,33,3,7,19,6,5
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTQyMTUxMzk=,Handle runtime errors,MERGED,164h23m,4,530,9,171,85,3,6
+vercel/next.js,MDExOlB1bGxSZXF1ZXN0OTQyNTE2NTI=,Add default utf-8 charset.,MERGED,1h53m,1,330,4,10,2,4,7
+facebook/create-react-app,MDExOlB1bGxSZXF1ZXN0Nzg1MjY2MDE=,Don't assume the project is hosted at the root,MERGED,51h49m,1,127,3,34,8,6,20
+facebook/create-react-app,MDExOlB1bGxSZXF1ZXN0Nzg2ODI4Mzg=,server-side render POC,CLOSED,6h09m,1,421,16,295,71,8,17
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTI5ODE4ODkx,Build A Support Ticket Application With AdonisJs,MERGED,10h11m,1,0,1,4,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTMwMjYwODM4,Added Thinkster.io to Additional Resources,MERGED,3h48m,1,0,1,1,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTMwMzI2NzEw,Added Goodheads.io to Additional Resources,MERGED,15h04m,1,0,1,1,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgyMDQ2NTEz,"Javascript: ""How to write your own Virtual DOM""",MERGED,11h26m,1,0,1,1,0,1,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgyNjc0ODQ5,"Javascript: ""Vue 2 + Firebase Authentication App""",MERGED,22h06m,1,111,1,4,0,1,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgzMDc5MzQ2,Add Handmade Hero tutorial.,MERGED,170h57m,1,204,1,2,1,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgzMjE1Nzk3,"Added React,Node and Deep Learning Tutorials",MERGED,8h43m,1,0,1,3,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgzMjM2ODUz,Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue,MERGED,5h59m,1,0,1,1,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTgzMjYwNjM1,"Added HTML/CSS topic,React,Python and R tutorials",MERGED,59h07m,1,0,1,10,0,2,1
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTg0MDk5OTM5,Added Deep Learning and Machine Learning Tutorials,MERGED,28h45m,1,0,1,6,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTg0ODE5MzEx,"Added React,Web Scraping and AI Tutorials",MERGED,28h53m,1,0,1,6,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTg2ODczNDE5,Add tutorial about writing concurrent servers.,MERGED,869h35m,1,279,1,17,6,2,2
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTg5ODgwMDU0,Added Machine Learning and Javascript tutorials,MERGED,36h17m,1,0,1,6,0,2,1
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTkwNTA2OTUy,"Added React,Hapi and R tutorials",MERGED,63h26m,1,0,1,5,0,2,1
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTkwNzk5NjU1,Add Tetris tutorial,MERGED,5h10m,1,64,1,1,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTkwNzk5Njgz,Add a matrix multiplication tutorial,MERGED,58h03m,1,101,1,1,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTkxMTQ2NDU4,Added Angular and React tutorials,MERGED,126h04m,1,0,1,5,1,2,1
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MTkzNjQyNDI3,"Add ""Writing a Linux Debugger"" tutorial series.",MERGED,144h21m,1,0,1,11,0,2,0
+practical-tutorials/project-based-learning,MDExOlB1bGxSZXF1ZXN0MjE3NDQ0NDY4,Add a C tutorial about creating an os,MERGED,68h14m,1,83,1,1,0,2,0
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjAxNDIyMzk1,Typo fix in README.md,CLOSED,514h53m,1,40,1,1,1,3,1
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjI4NzgyMTQ1,Update README.md,MERGED,3h52m,3,80,1,2,0,5,3
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjI5MDg1MjEx,Add new tools,MERGED,15h03m,7,57,1,3,0,2,1
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjQwNjIzMDIz,Add dkimvalidator.com under mail section (and other important tools).,MERGED,25h59m,1,0,1,6,0,3,1
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjQxMDQ2NzI2,Added PbScan in network section,MERGED,9h41m,1,0,1,1,0,3,2
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjQxMjk5NzMx,Adding Etherate to 'Networking',MERGED,169h17m,1,0,1,1,0,3,0
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjQ0NTIyMTY0,Add CLI creators to CLI section,MERGED,711h32m,1,0,1,1,0,3,2
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MjU1MzQ0MDY5,Update README.md,CLOSED,46h01m,1,66,1,6,0,3,3
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0Mjc5ODM0OTIx,Fixed Grammar for various tool,MERGED,1h54m,1,100,1,17,17,3,0
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0Mjg4NjgzODI3,Add pentoo to operating systems,MERGED,904h19m,1,80,1,1,0,3,1
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MzM5NDQ5NTc3,Store script files as gists,CLOSED,8850h24m,1,42,1,24,0,3,0
+trimstray/the-book-of-secret-knowledge,MDExOlB1bGxSZXF1ZXN0MzUwMjgzMDM4,Merge pull request #127 from pstavirs/osti,MERGED,1395h50m,1,293,1,1,0,3,4
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjMxNzc1MTI1,Fix ineffective no_decay bug when using BERTAdam,MERGED,48h50m,1,133,1,2,2,4,3
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjM2MjU4MzE3,run_classifier.py improvements,MERGED,136h49m,3,473,1,24,30,2,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjM2NjI5NTA3,BertForMultipleChoice and Swag dataset example.,MERGED,160h31m,1,1077,4,658,7,7,14
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjM5NDIzMzU5,Add example for fine tuning BERT language model,MERGED,481h15m,7,932,2,678,4,6,12
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQwNjMyNjY5,Correct the  wrong note,MERGED,382h51m,1,38,1,1,1,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQyNDE1MzY5,Fix error when `bert_model` param is path or url.,MERGED,56h57m,3,136,1,1,1,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQyNTIwODEw,Update modeling.py to fix typo,CLOSED,13h28m,1,86,1,1,1,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQyNTc4NjA0,LayerNorm initialization,MERGED,3h53m,1,410,1,2,2,3,2
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQzOTM4OTc1,Adding OpenAI GPT pre-trained model,CLOSED,748h31m,3,42,11,1687,59,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQ0Mjg3NDk3,Documentation Fixes,CLOSED,88h44m,1,180,3,5,5,2,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQ2Nzc4NTEz,Fix learning rate problems in run_classifier.py,MERGED,327h57m,5,383,6,80,94,3,4
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQ4OTc5MjIw,Minor update in README,MERGED,40h53m,1,59,1,8,8,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQ5MDEyODU5,Fix argparse type error,MERGED,39h03m,1,157,2,2,2,3,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjQ5MTk4NTU1,Avoid confusion of inplace LM masking,MERGED,24h31m,1,205,1,2,2,4,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjUzODgxMTA3,Typo/formatting fixes in README,CLOSED,8h55m,1,0,1,4,4,2,1
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjU2NTM0ODg4,add BertTokenizer flag to skip basic tokenization,MERGED,172h16m,5,1029,2,29,9,3,2
+huggingface/transformers,MDExOlB1bGxSZXF1ZXN0MjU3NzAyNTA0,Allow tokenization of sequences > 512 for caching,MERGED,80h15m,2,166,4,4,4,3,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0Mjc2MzgzMjU2,fix a couple typos,MERGED,64h19m,2,68,1,1,1,4,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0Mjc2NDI3NjQ1,s/expereince/experience,MERGED,60h20m,1,0,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MjgzNDQyNDE1,Images for Specs,CLOSED,3984h06m,2,0,6,60,0,8,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0NTg5NTU0,First preview release,MERGED,0h02m,1,51,341,54766,62,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0NjAyNTQw,Fixed typo in readme,MERGED,24h20m,2,978,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0NjQ2OTU5,update backlog links,MERGED,22h15m,1,395,2,26,26,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0OTIxNTI5,Fixed typo,CLOSED,5h23m,1,19,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0OTQ3NTU3,Update README.md,CLOSED,4h10m,1,1220,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE0OTc0OTY5,Fix typo,CLOSED,3h06m,2,99,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1MDAxNDk4,Fixed spelling in ReadMe,MERGED,2h24m,1,1355,1,5,5,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1MTEyNjUw,Advertise shortcuts,MERGED,67h17m,1,676,3,19,33,2,4
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1MTQ0MDY4,Slight web bits cleanup,MERGED,60h08m,1,284,10,35,64,4,4
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1NDI3NjQ3,Update CI pipeline,MERGED,4h14m,1,883,3,1,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1NTM0MTI3,add build status to readme,MERGED,0h06m,1,625,1,4,0,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1NTgxNDMx,Added Hi-res logo (4k PNG),MERGED,1616h16m,2,1331,1,0,0,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1ODk1NDg0,Fix cppcheck reported issues,MERGED,25h20m,1,572,19,34,36,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE1OTIyNDkz,Make Alt-F4 always close the settings window,MERGED,24h15m,1,433,1,6,0,2,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE2MDg3NzU3,Don't show the tasklist arrows when taskbar is autohide,MERGED,17h48m,1,695,1,9,4,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE2MzcxNzQ2,activate zones for windows with custom titlebar,MERGED,9h02m,2,1265,1,6,8,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE2NDcwMjk0,default 'flashZones' to false,MERGED,4h59m,2,467,1,1,1,3,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE2OTk3MTM5,Couple of typos,MERGED,42h08m,1,719,1,1,1,3,3
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE3MzI2ODEx,msi upgrade fix,MERGED,90h22m,3,1104,2,10,5,3,3
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE4MDQ1MDU5,Fix for #195 - Fancy Zones new editor needs to support multiple monitors,MERGED,28h41m,1,1367,9,576,499,6,6
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE4MzAxNDY3,Improve window filtering.,MERGED,20h46m,1,569,6,35,23,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE4MzIwMzA2,"When moving window to a zone, ensure it does not remain in maximized state",MERGED,19h58m,1,336,1,7,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE4ODk5NzQ3,Modifying the startup behaviour of the FancyZones Layout Editor,MERGED,237h59m,13,1466,7,108,72,3,12
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzE5MjgwOTI4,Make FancyZone distinguish different modern apps.,MERGED,161h18m,1,560,4,56,24,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzIyMDk4NjYy,Add a hotkey settings control and use it in FancyZones,MERGED,124h57m,2,486,13,237,17,3,3
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzIzODE0NjYz,Add radio button group and add theme select for ShortcutGuide,MERGED,16h37m,1,810,11,135,10,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI0MTAzNDIw,Add dropdown settings UI element,MERGED,22h53m,1,820,5,92,5,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI0MzEzNTMy,WebView fixes,MERGED,16h53m,5,1672,3,208,143,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI0NjY0ODUx,Improve window filter to include start menu and Cortana search box.,MERGED,68h23m,5,503,6,68,55,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI0OTEzNzY4,exit Settings on fatal error,MERGED,53h46m,3,758,1,32,34,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI1MzA5NTE3,rename 'src/editor' to '/src/settings',MERGED,0h13m,1,807,13,186,186,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI1NjM0MDEx,update destination folder,MERGED,1h51m,1,751,1,1,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI1NzE2OTI4,Rename CustomSettingsScreen to ModuleSettings,MERGED,24h14m,1,381,3,6,6,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI1ODMyMzMx,change window name from window1 to FancyZones Editor,MERGED,22h24m,1,1447,2,2,2,3,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI2MDYzMTIy,fix editor CLI parsing if comma is decimal sep in locale,MERGED,9h41m,1,1124,2,19,7,2,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI2MzkyMjc1,Dev/sashapie/wix nuget sacl,MERGED,0h41m,1,2020,12,96,40,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI2NDk4MTIz,Ignore wix toolset items,MERGED,15h07m,1,1420,2,24,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI2OTEwNDUw,Add darkmode support for the settings window,MERGED,132h07m,4,783,22,343,59,4,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI3MzU3MTcy,Initial add of PowerRename from SmartRename repo,MERGED,151h24m,12,219,63,6055,1,4,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI3ODc1NTg1,Add version number to telemetry event,MERGED,1h09m,3,1021,14,39,4,2,2
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI3ODkyMzI1,ignore javascript files,MERGED,0h27m,1,1268,1,8,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI3OTQwMjk4,Fix rcNormalPosition in SetWindowPlacement,MERGED,45h28m,1,262,2,6,5,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI3OTY3NjA4,exclude items for all build types,MERGED,0h17m,1,1305,1,8,0,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4MDU5MzU0,Fix typo in organization.md,MERGED,3h30m,1,1212,1,1,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4Mjc1NjYw,Don't zone hidden windows,MERGED,162h08m,2,573,1,1,1,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4Mjc4MTAw,Save the zone when window is moved by hotkeys,MERGED,18h40m,2,935,1,1,0,3,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4Mjg2Mzcz,fixes for zone resize,MERGED,9h16m,1,1432,1,60,17,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4Mzc2NzAx,Update PowerToysBacklog.md,MERGED,2h06m,1,1317,1,1,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4NDU5OTk2,Update README.md,MERGED,1h10m,1,1228,1,1,1,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI4NjgwMTQ1,Telemetry events,MERGED,139h56m,3,1096,11,79,49,3,1
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI5MjAxMjE3,Update settings-web module dependencies,MERGED,1h55m,1,417,5,213,300,2,0
+microsoft/PowerToys,MDExOlB1bGxSZXF1ZXN0MzI5MzU3ODA4,Add fade out effect for shortcut guide overlay,CLOSED,171h22m,7,1447,66,6091,16,3,4
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQyODAzNzU3,Fix link,MERGED,1h37m,1,0,1,1,1,2,0
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQyOTg4NjU4,Changed to gender neutral rather than male only,MERGED,2h11m,1,0,1,2,2,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQzNjg5OTQy,return -1 if target is not in array,MERGED,45h51m,2,91,2,14,14,2,5
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQ0MDc2Mzg0,"Grammar fixes for tense, punctuation and wording.",MERGED,1h22m,3,114,1,2,2,2,2
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQ0NTM2MTY3,Added Elevator Pitch section,MERGED,19h18m,2,0,1,17,0,2,3
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTQ1NTEzNjgy,Create mergeSort.js,MERGED,8h46m,1,0,1,54,0,2,2
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTYxMjY3OTA1,Fix typo,MERGED,0h10m,1,0,1,2,2,2,0
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTY0MTEzNTAx,Interview questions,CLOSED,11h22m,1,90,2,29,0,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MTc4MjM5NDE1,Fix grammar/phrasing and typos in behavioral.md,MERGED,1h08m,1,106,1,12,12,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjAxNTE2MTQy,remove duplicate question,MERGED,0h53m,1,0,1,1,2,2,2
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjA3NjY4NDA3,questions-to-ask.md: improve phrasing & grammar,MERGED,0h01m,1,287,1,1,1,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjEwNTE2Mjcz,Remove duplicate question in behavioral.md,MERGED,0h40m,1,0,1,0,1,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjIyNTYyNjc4,Update basics.md,MERGED,4h55m,1,17,1,1,1,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjI0MTc3MjA4,Update security.md to correct wording,MERGED,0h05m,1,0,1,4,4,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjI3MjIwNjc4,Fixed 2 typos,MERGED,7h32m,1,354,2,2,2,2,1
+yangshun/tech-interview-handbook,MDExOlB1bGxSZXF1ZXN0MjI3NDYwNjcy,Update README.md,MERGED,0h10m,1,29,1,1,1,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMDM5OTY4,Fix Small Typo: privlaged → privileged,MERGED,0h24m,1,0,1,1,1,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMDgzMDQ5,docs(README.md): fix typo,MERGED,0h04m,1,0,1,1,1,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMDg4NTA0,[WIP] use wildcard to check test outputs,MERGED,26h49m,2,0,10,141,27,3,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMDkwNDA4,Fix travis,MERGED,0h13m,1,0,1,1,2,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMTIxMDU4,Implement FileWrite,CLOSED,577h38m,3,0,5,53,4,5,5
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMjAwMDgw,Remove hand crafted types for text-encoding,MERGED,76h03m,9,779,4,5,72,6,10
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxMjE3Njc2,typo: propelml -> ry,MERGED,0h33m,1,0,1,1,1,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxNDUzMDg5,[WIP] Init Dockerfile,CLOSED,49h37m,8,88,2,26,0,5,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxNTQxNjY4,Remove extra out argument sent to Parcel and reduce logging in output,MERGED,5h33m,2,207,1,1,1,3,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxNjM5MDU5,Update compile instructions in README,CLOSED,9h54m,1,136,1,17,10,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxNzkyMTgx,"optimize the timer ts impl, and correct the duration if less than 10",MERGED,6h08m,16,271,3,27,29,5,6
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxODIzMzA3,Rename LICENSE,MERGED,3h46m,1,157,1,0,0,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxODM4NTM2,Enhance README,MERGED,2h56m,2,281,1,37,34,4,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxOTM5MzMz,Use docker for local development,CLOSED,511h50m,3,4765,5,140,36,5,7
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxOTQzMTE1,update build step ,CLOSED,12h20m,1,39,1,1,0,4,8
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxOTc1NTI4,Avoid apply and move arrayToStr to util,MERGED,69h49m,2,155,2,5,5,4,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxOTgwNzcw,format runtime.ts,MERGED,9h04m,1,0,1,1,1,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkxOTg5NjM2,Update LICENSE,MERGED,0h08m,1,19,1,9,8,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMDIyODU1,[fix] fix some code to satisfied tslint,MERGED,66h19m,2,315,3,4,4,3,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMDQ0MjA5,docs: add issue template,CLOSED,4h32m,1,89,1,2,0,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMDgyNzcy,Check if prettier is run in lint task,CLOSED,62h38m,1,82,2,2,0,3,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMTcwMjY3,feat: ( os ) Implement FileStateSync and test in test.ts,CLOSED,492h46m,8,0,7,68,4,5,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMTgwNjY3,fix typescript warning,MERGED,49h44m,1,99,1,2,2,5,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMTgzMjI0,os: implement tempDirSync and use in tests.ts,CLOSED,75h45m,4,329,0,0,0,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMTg5OTY0,Add `console.assert`,MERGED,70h11m,7,75,2,19,0,6,10
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMjE1NDY4,📝 Update install instructions around known error,MERGED,35h33m,5,248,1,11,4,6,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMjMwOTg2,Enhance error check in dispatch.go,MERGED,26h39m,1,51,1,1,3,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyMzUxNDM5,Enhance README.md,CLOSED,22h34m,1,399,1,13,14,4,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNTgyNTEz,[fix] rename sendMsg to pubInternal and refactor some import statements,MERGED,4h34m,1,263,4,14,15,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNjA1MDcz,Use check() to improve error check,MERGED,1h21m,1,0,3,8,21,2,0
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNjEzODE1,Move console to console.ts and better stringify,CLOSED,146h29m,4,331,4,197,33,3,6
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNjMzMjIz,Fixed a little typo in README,CLOSED,72h50m,1,63,1,1,1,4,4
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNjM2ODg2,Use path.Join instead of +,MERGED,148h03m,3,156,3,5,4,6,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNzI1NzMy,[fix] run normally when script is empty ,CLOSED,50h14m,3,402,4,12,1,3,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyNzcxMDI2,implement Header for fetch,CLOSED,423h08m,4,167,1,77,0,4,4
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyODE2ODE0,Implement readFile,CLOSED,420h08m,3,193,8,132,4,3,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyODk0NjM4,[feat] add recv function,CLOSED,411h51m,2,652,4,62,44,3,3
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkyODk3NDE2,fetch: Avoid duplicate import about util,MERGED,124h55m,2,222,1,8,3,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMDMwMjEx,Add:README.md,CLOSED,42h16m,2,75,1,35,10,4,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMDcyMTI3,Add:New Readme,CLOSED,40h06m,2,95,1,6,0,5,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMDkxNjg4,Fix Typo In README,CLOSED,0h18m,1,0,1,1,1,4,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMTgyNDI4,Use template literals instead of traditional string concatenation,MERGED,93h53m,4,136,4,8,8,10,11
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMjMzODM5,simple code: omit comparison to bool constant,CLOSED,6h59m,1,0,2,12,12,2,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMjU2NjEx,Add file not exist error catch,CLOSED,485h58m,8,0,7,49,1,4,13
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMzM0Nzkx,Implement Request,CLOSED,509h22m,5,442,3,129,13,4,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzMzU5MTM1,Extend profiling,MERGED,51h31m,1,639,1,32,9,2,2
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzNTIxNDk2,Implement some experimental HTTP server functionality ⭐,CLOSED,361h20m,9,959,12,374,1,5,13
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzNzA3NzQ0,Remove unnecessary 'undefined',MERGED,13h21m,3,31,1,2,2,5,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzNzI0MzE1,delete timer in the Map(timers) when call clearTimer,MERGED,11h56m,1,59,1,1,0,3,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzNzY5Mjc0,Improve dispatch and fetch implementation,CLOSED,465h35m,2,150,2,7,8,4,1
+denoland/deno,MDExOlB1bGxSZXF1ZXN0MTkzODA3MjEy,"Implement minimal TCP module (""net"")",CLOSED,303h35m,6,116,10,454,1,5,5
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNDU3NTU1,Fixed typo,MERGED,9h58m,1,61,1,1,1,3,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNDk4OTM2,Fix typo pitfal to pitfall,MERGED,4h37m,1,0,1,1,1,3,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNTQxMDM2,Update README.md,MERGED,1h05m,1,57,1,2,2,3,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNjE3NzQx,Add spanish translation skeleton,CLOSED,12395h44m,3,62,7,131,137,6,20
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNjczNzQ0,Fixed some typos,MERGED,33h17m,1,47,1,43,42,3,3
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNjg2MzYz,[errorhandling] Format js code in the blog section,MERGED,3h27m,1,175,1,4,4,3,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwNjk2NzY2,Update README.md,MERGED,17h51m,1,0,1,1,1,3,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUwOTI0NTc1,Fixed typos and optimized sentence syntax of sections,MERGED,73h56m,1,0,22,27,27,3,5
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxMzAxOTUw,corrected typos in readme,MERGED,13h33m,1,175,1,6,6,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxMzg0NzY3,Add Keymetrics to APM section,CLOSED,7554h56m,1,0,2,7,3,5,7
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxNjcyNTY1,Fix link formatting,MERGED,5h51m,2,0,1,2,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxODI2NzU1,Fixing #51,MERGED,110h23m,1,1034,1,7,15,3,4
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxODUxMDcz,Fix code sample syntax issue for bullet 3.3,MERGED,25h33m,1,121,1,2,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxODU5NTYz,Fixup a couple of code examples,MERGED,34h56m,1,106,2,3,3,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUxOTEyMzk3,Update productoncode.md,MERGED,20h08m,1,70,1,1,1,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyMDYxMjE5,Add section on healthchecks,CLOSED,4263h58m,1,1257,2,25,0,3,5
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyMTA3NDk4,Remove unneeded image and replace with code block,MERGED,52h25m,1,175,2,17,1,3,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyMTM0NDg5,Clean up some grammar,MERGED,36h04m,1,42,1,5,5,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyNDUzMDAy,Typo,MERGED,3h15m,1,195,1,1,1,3,4
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyNTcxMDY3,Tiny grammar fix in section 1.2,MERGED,1h38m,1,109,1,2,2,2,3
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyNjM5NjQw,add rc as config manager option,MERGED,0h08m,1,15,2,2,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyNzI0MzQx,tiny ToC fix,MERGED,1h14m,1,0,1,1,1,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyODE1MTQ4,Fixed some typos,MERGED,0h29m,1,46,2,2,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTUyODM1OTU1,Add 'milestones' section to README,MERGED,22h47m,1,0,1,5,0,3,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU0NDI4OTg4,Update README.md,CLOSED,230h15m,4,17,1,4,4,3,3
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU0NDMzNzc3,Update README.md,MERGED,0h43m,1,0,1,2,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU0NDM1NzAz,Fix typo,MERGED,0h15m,1,0,1,1,1,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU0NjU2Njkx,Thank you notes,MERGED,0h27m,1,20,1,33,0,3,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU0NjcwNjYz,Remove duplicated ESLint reference. Close #84,MERGED,156h15m,1,0,1,5,3,3,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU2MzA4OTE2,Fix typo in apmproducts.md,MERGED,1h17m,2,0,2,4,3,2,4
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU2MzYyNTUw,Create thincomponents.chinese.md,MERGED,0h04m,1,17,1,23,0,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU2NzY3NzEx,Removed duplicate quote from Node.JS official doc,MERGED,0h23m,1,42,2,3,4,2,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU2OTYwNjI1,[chinese_translation] add sections\production\productoncode.chinese.md,MERGED,0h02m,1,0,1,15,0,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU3MTQyMjE3,Refine text - dont perform CPU tasks,MERGED,89h37m,1,0,1,2,2,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU3Njg2MDIx,Update resources section,MERGED,17h59m,1,143,1,4,2,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU3NzE3NDUw,Chinese translation,MERGED,11h59m,2,0,2,41,11,3,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU3ODY3MzQ1,Add Aaron Arney to thank you notes,MERGED,0h16m,1,0,1,2,1,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU5ODI2MjY0,Fix incorrect syntax,MERGED,124h33m,1,0,1,9,13,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTU5OTYxMjY2,Chinese translation,MERGED,0h08m,1,69,1,35,0,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwMDE5MDk3,smartlogging.chinese.md,MERGED,0h02m,1,27,1,35,0,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwMTM3ODIx,prettify and unify the syntax,MERGED,20h54m,1,45,9,77,68,2,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwMjU3ODUx,Optimized sytax and fixed typos,MERGED,31h09m,1,0,23,118,99,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwNTM3OTYx,Fix wrong copypasta,MERGED,55h14m,1,41,1,1,1,2,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwNjg1MjQy,[Chinese translation] -- add,MERGED,0h02m,1,0,4,120,0,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwNjg3MTY0,Chinese translation,MERGED,0h04m,1,0,4,129,18,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTYwNjkwNjk1,Fixed Typing error in Section 3.11,MERGED,3h37m,1,0,1,1,1,2,1
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY1NDAxODI0,"Change term ""framework"" to ""tool"", because is more correct.",MERGED,0h02m,1,59,2,3,3,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY1ODI4NzQw,Our content writing manifest,MERGED,186h26m,1,104,1,31,0,2,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY3Nzk3NDcz,docs(security): update regex section,MERGED,0h13m,1,112,1,2,2,2,0
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY5MzAxNjYx,Provide a URL to the StrongLoop blogpost,MERGED,5h31m,1,0,2,4,3,2,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY5NzkxOTMy,Expand 6.1 to include database libraries,MERGED,96h48m,1,271,1,4,3,3,2
+goldbergyoni/nodebestpractices,MDExOlB1bGxSZXF1ZXN0MTY5ODA1NDM0,fix(typos): use correct form of Node.js,MERGED,0h24m,1,0,14,37,37,2,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MTM1ODM2NTEw,Add a switch for exporting settings,MERGED,6077h01m,5,157,4,66,4,7,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MTM3OTkyMjM0,Dynamically generate list of parsers,MERGED,5764h17m,1,1452,6,30,12,4,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MTY0MDc2NTky,Add support for using ColorTool in WSL,MERGED,6139h33m,2,396,3,334,154,4,8
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MTg4NjkxMzE1,"Markdown fixes, also add a description",MERGED,4h48m,1,0,1,4,2,2,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MTkxNzE4NjA2,Consolidate schemes path search code,MERGED,154h52m,1,350,3,51,69,3,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjA5MzQzNDM3,Fix UIntTocolor,MERGED,1066h53m,1,126,1,3,4,2,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjEyMjQyNjY1,Add an example application that uses the pseudoconsole APIs,MERGED,267h03m,31,84,8,486,0,3,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjE3MDEyNjA4,Add csharp conpty sample,MERGED,337h56m,5,1384,14,740,0,4,5
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjE5Nzg5MTQ4,Wrap file system export write in try/catch.,MERGED,0h03m,3,385,1,22,14,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjE5Nzk4NTA0,Correct version lookup for ES autoincremented value,MERGED,0h08m,3,127,1,3,3,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjIwODc5NTI0,Add the new ConPTY samples to the readme,MERGED,53h15m,1,211,1,3,1,2,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjIxOTIyMDAx,Added location flag to colortool and updated help.,MERGED,4059h32m,7,51,2,182,171,8,4
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjIyNzE1NDEz,Add GUIConsole sample,MERGED,5188h54m,7,470,22,1193,0,6,20
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjM0Nzc1OTA1,Add signing configuration information to repository.,MERGED,0h12m,3,190,2,43,0,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjQyMzQ5NTc0,Retargeted EchoCon sample project to 17763 now Win10 1809 has shipped,MERGED,2645h00m,2,0,1,1,1,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjU2NzU1MTA2,Don't report scheme parse errors by default,MERGED,4h15m,6,717,6,38,31,3,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjY1Nzg1NTE1,Back and forground index export,MERGED,96h47m,5,909,6,126,18,3,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjY1ODYzNDAw,added Support for parsing screen color in json,MERGED,77h17m,2,33,1,21,1,3,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0MjczNDkxMzI2,"Fix ColorTool parser and registry bugs, and refactor",MERGED,103h22m,9,963,17,883,774,3,3
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc0NDgzNTgz,moved readconsoleinputstream to samples folder,MERGED,0h17m,2,81,8,17,0,3,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc0ODQ0MjY3,Move ColorTool to src/,MERGED,0h42m,2,0,37,2,2,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc0ODQ0Mjcz,cleanup: move ISSUE_TEMPLATE to .github/,MERGED,0h42m,2,0,1,0,0,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2Mjg1MzEx,Add myself to list of contacts on README,MERGED,0h02m,2,99,1,2,0,3,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2MzI2MTQ4,Add some prerequisites to the readme,MERGED,18h42m,3,85,1,11,0,8,6
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2MzYwNDMx,doc: Fix typo,MERGED,17h31m,2,0,1,2,2,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2MzY5NzU4,Add a few more possible locations of MSBuild to the razzle.cmd script,MERGED,16h02m,2,412,1,32,0,7,6
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDAzOTk2,Fix build errors in VS2019 and Build Tools v142,MERGED,15h07m,13,201,1,1,0,18,14
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDEyMzAx,Fix grammatical error,MERGED,17h00m,5,54,1,1,1,5,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDMzNDI3,"Pass `/utf-8` to cl.exe, sanitize encoding",CLOSED,1575h55m,6,582,5,43,8,9,9
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDUzNDQy,Add one half color schemes,MERGED,179h39m,5,519,1,66,4,6,12
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDc3MTMw,fixed small error,MERGED,8h09m,2,0,1,2,2,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NDkzNTU3,Fix ORGANIZATION.md hierarchy issues,MERGED,6h12m,4,0,1,10,10,5,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NTcyMjAw,minor readme fix,MERGED,6h36m,2,31,1,1,1,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NTgxMDMx,Explicitly mention tools document in root README,MERGED,39h53m,5,0,1,2,2,5,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjEzNDY1,Specify the NuGet packages folder,MERGED,5h58m,2,175,1,3,0,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjE1Mjgx,Update GitHub URL link,MERGED,1h21m,3,91,1,1,1,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjI1OTg4,Fix casts warnings.,MERGED,4h35m,5,46,3,3,3,4,4
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjMwNzY4,Grammar fixes/improvements,MERGED,0h46m,2,0,1,5,5,4,3
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjMzMjc3,"ci: check out submodules, too",MERGED,0h08m,1,0,1,1,0,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjQ0MzE3,fix: replaced outdated url,MERGED,0h15m,2,446,1,1,1,3,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2NjU2Mjg2,Add an FAQ to the README,MERGED,0h53m,1,0,1,21,0,2,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2Nzk4MDcz,Update README.md,MERGED,29h43m,2,48,1,1,1,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODA4MjM5,"Clarify where prerequisites packages are installed in VS, could be un…",MERGED,14h12m,2,114,1,1,1,3,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODI3OTA5,Fix warnings and errors caused by unicode characters.,CLOSED,1554h13m,2,96,4,8,8,8,9
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODMwMDI2,"Typos: Incorrect use of the possessive of ""it"".",MERGED,26h15m,4,43,1,5,5,5,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODM1MDM5,static analysis fixes,MERGED,374h45m,36,0,15,125,125,9,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODM3MzY5,"Add a dev manifest, which will be used by default",MERGED,63h50m,3,162,5,79,4,4,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODUwODM1,Updating readme for more explicit VS2019 Instructions,MERGED,159h06m,3,93,1,164,159,5,6
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODYzNjMy,Fix downlevel support for traditional console,MERGED,137h10m,2,251,1,3,3,4,3
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2ODc5NjUy,Add .vsconfig for required components to build,MERGED,21h25m,2,348,1,36,0,5,8
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc2OTcyNTE4,Tab to spaces,MERGED,132h55m,4,0,7,79,79,6,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MDE0Nzgw,actually link to the Azure CI from the badge,MERGED,0h06m,1,0,1,1,1,2,1
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MDI4NDI2,add .editorconfig file,MERGED,387h34m,9,259,1,13,0,6,7
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MDM0NTQz,Check null pointer before fclose,MERGED,51h01m,5,128,1,4,1,5,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MDM5NDgz,Fix Spelling Issues,MERGED,13h22m,3,0,1,2,2,4,0
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MDcwMDQw,Set proper paths of MSBuild in razzle.cmd,CLOSED,49h02m,2,125,1,3,3,5,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MTIwOTY5,Add in copyright,CLOSED,1104h41m,4,102,1,1,0,9,9
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MTQ2MDAz,make closeOnExit: true the default,MERGED,17h38m,5,54,2,2,2,7,2
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MjA1NDE0,Improve `startingDirectory` functionality,MERGED,54h47m,6,504,3,10,2,4,8
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MjE5MjY4,Update razzle to use vswhere (#13),MERGED,39h46m,10,140,5,38,70,7,7
+microsoft/terminal,MDExOlB1bGxSZXF1ZXN0Mjc3MzkwMzIx,add shortcut alt-* for select tab,MERGED,27h26m,5,73,5,85,2,4,0

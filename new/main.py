@@ -34,7 +34,7 @@ def get_remaining_requests(token):
 def get_data(nameWithOwner):
     load_dotenv()
 
-    tokens = [os.environ["token1"], os.environ["token2"]]
+    tokens = [os.environ["token1"], os.environ["token2"], os.environ["token3"]]
     token = random.choice(tokens)
 
     url = "https://api.github.com/graphql"
@@ -80,21 +80,23 @@ def get_data(nameWithOwner):
     """
 
     variables = {
-        "after": None,
+        "after": "Y3Vyc29yOnYyOpHOANwyUQ==",
         "owner": nameWithOwner.split("/")[0],
         "name": nameWithOwner.split("/")[1]
     }
 
     headers = {"Authorization": "Bearer " + token}
     while True:
-        sleep(0.9)
         try:
             response = requests.post(
-                url, json={"query": query, "variables": variables}, headers=headers, timeout=50)
-        
+                url, json={"query": query, "variables": variables}, headers=headers)
+            
+            sleep(0.9)
         except Exception as ex:
+            if response.status_code >= 500:
+                token = random.choice(tokens)
             continue
-           
+        print(variables["after"])
         data = json.loads(response.text)
 
         row_data = []
