@@ -36,4 +36,5 @@ jobs:
             python main_script.py
             with:
                 token: ${{ secrets.token_access }}
+                branch: main
 
