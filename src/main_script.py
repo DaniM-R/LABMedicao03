@@ -3,10 +3,13 @@ import requests
 import os
 from dotenv import load_dotenv
 import csv
+import sys
 
 load_dotenv()
 
-token = os.environ["token"]
+#token = os.environ["token"]
+token = sys.argv[1]
+
 url = "https://api.github.com/graphql"
 repositories = []
 
