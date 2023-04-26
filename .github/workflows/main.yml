@@ -39,4 +39,4 @@ jobs:
     - name: run
       run:  |
             cd src
-            python main_script.py $token
+            python main_script.py $github_token
