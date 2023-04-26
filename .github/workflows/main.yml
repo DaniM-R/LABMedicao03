@@ -34,7 +34,8 @@ jobs:
       run:  |
             cd src
             python main_script.py
-            with:
-                token: ${{ secrets.token_access }}
-                branch: main
-
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        token: ${{ secrets.token_access }}
+        branch: main
