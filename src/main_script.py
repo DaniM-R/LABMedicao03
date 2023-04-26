@@ -8,7 +8,8 @@ import sys
 load_dotenv()
 
 #token = os.environ["token"]
-token = sys.argv[1]
+if __name__ == '__main__':
+    token = sys.argv[1]
 
 url = "https://api.github.com/graphql"
 repositories = []
