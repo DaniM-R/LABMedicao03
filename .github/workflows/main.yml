@@ -33,5 +33,5 @@ jobs:
     - name: run
       run:  |
             cd src
-            python filter_list.py
+            python main_script.py
 
