@@ -35,5 +35,5 @@ jobs:
             cd src
             python main_script.py
             with:
-              github_token: ${{ secrets.token }}
+                token: ${{ secrets.token_access }}
 
