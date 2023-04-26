@@ -33,5 +33,5 @@ jobs:
     - name: run
       run:  |
             cd src
-            python githubEvents.py
+            python filter_list.py
 
